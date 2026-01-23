@@ -6,6 +6,8 @@ permalink: /publication/zero-to-job
 excerpt: 'My first Book'
 date: 01-01-2026
 venue: 'Amazon'
+slidesurl: 'https://www.amazon.com/Zero-Job-job-without-waiting-college/dp/B0FRNSSM9Y'
+paperurl: 'https://www.amazon.com/Zero-Job-job-without-waiting-college/dp/B0FRNSSM9Y'
 citation: 'Aryan Singh. (2025). &quot;Guide for teens.&quot; <i>Book</i>. 1(1).'
 ---
 # My First Book: Zero To Job  
