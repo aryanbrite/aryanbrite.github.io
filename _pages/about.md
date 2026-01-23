@@ -88,7 +88,7 @@ A life in phases — each one a chapter, not a checklist. Here's how it's unfold
 
 - Amid the chaos, I authored [*Zero to Job*](https://www.amazon.com/Zero-Job-job-without-waiting-college-ebook/dp/B0D57HYFZ5), a student's guide to exploring IT careers. It began as a monetization idea, ended as a near-free resource tucked in a quiet corner of the internet. Sometimes, impact matters more than income.
 
-- After many average experiments, one idea finally clicked — a quiet breakthrough, born from boredom and curiosity. I got 2.5 million streams on a song i posted randomly.
+- After many average experiments, one idea finally clicked — a quiet breakthrough, born from boredom and curiosity. I got 2.5 million streams on a song I posted randomly.
 
 - The start of Class 12 was beautifully unproductive. For two months, I didn't study a word. Instead, I caught feelings for a girl who never looked back. ("psst… she never even noticed")
 
@@ -99,8 +99,6 @@ A life in phases — each one a chapter, not a checklist. Here's how it's unfold
 - Founded my own nonprofit: the [*DeyWeaver Foundation*](https://npo.deyweaver.live) — a 501(c)(3). We got fiscally sponsored by [*IFERS*](https://ifers.org), under the generous guidance of Professor [Newton Lee](https://en.wikipedia.org/wiki/Newton_Lee) — whose support reminded me that even the boldest visions need roots.
 
 - Eventually, I applied to become the Lead Organizer of [*Campfire Delhi*](https://campfire.hackclub.com/delhi) at [*HackClub*](https://hackclub.com). I wasn't expecting much — in my head, it was just another form to fill, another shot in the dark. But out of nowhere, I got selected. That moment didn't just feel like a win; it felt like the universe saying, "Hey, you're ready for the next level." The role became a playground of ideas, late-night planning, and unexpected connections — each event a lesson in leadership, empathy, and the weird magic of people coming together over code and creativity.
-
-
 
 <p align="right"><em>Last updated: July 2, 2025</em></p>
 
