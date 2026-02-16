@@ -100,7 +100,7 @@ A life in phases — each one a chapter, not a checklist. Here's how it's unfold
 
 - Eventually, I applied to become the Lead Organizer of [*Campfire Delhi*](https://campfire.hackclub.com/delhi) at [*HackClub*](https://hackclub.com). I wasn't expecting much — in my head, it was just another form to fill, another shot in the dark. But out of nowhere, I got selected.
 
-<p align="right"><em>Last updated: January 28, 2025</em></p>
+<p align="right"><em>Last updated: January 28, 2026</em></p>
 
 ### 🛠️ Phase 2 — [Next Chapter Title]
 *Coming soon…*
