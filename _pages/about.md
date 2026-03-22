@@ -88,10 +88,57 @@ A life in phases — each one a chapter.
   <a href="/files/web1.png" target="_blank" rel="noopener noreferrer" style="display: block; flex: 0 0 auto;">
     <img src="/files/web1.png" alt="E-commerce project image 2" loading="lazy" style="display: block; width: 180px; height: 120px; object-fit: cover; border-radius: 10px; border: 1px solid rgba(0,0,0,0.16);" />
   </a>
-  <a href="/files/web2.png" target="_blank" rel="noopener noreferrer" style="display: block; flex: 0 0 auto;">
-    <img src="/files/web2.png" alt="E-commerce project image 3" loading="lazy" style="display: block; width: 180px; height: 120px; object-fit: cover; border-radius: 10px; border: 1px solid rgba(0,0,0,0.16);" />
-  </a>
+  <div style="display: block; flex: 0 0 auto; position: relative; width: 180px; height: 120px; border-radius: 10px; overflow: hidden; border: 1px solid rgba(0,0,0,0.16); background: #000;">
+    <video src="/files/vid2.mp4" autoplay muted loop playsinline preload="metadata" style="display: block; width: 180px; height: 120px; object-fit: cover; pointer-events: none;" aria-label="E-commerce project video preview"></video>
+    <button id="ecoVideoLaunch" type="button" aria-label="Open e-commerce video" style="position: absolute; inset: 0; border: 0; background: transparent; cursor: pointer;"></button>
+  </div>
 </div>
+
+<div id="ecoVideoModal" style="display: none; position: fixed; inset: 0; z-index: 100002; background: rgba(0,0,0,0.82); padding: 22px; align-items: center; justify-content: center;">
+  <div style="position: relative; width: min(96vw, 980px); aspect-ratio: 16 / 9; background: #000; border-radius: 12px; overflow: hidden; box-shadow: 0 20px 50px rgba(0,0,0,0.45);">
+    <button id="ecoVideoClose" type="button" aria-label="Close video" style="position: absolute; top: 10px; right: 10px; z-index: 2; border: 0; border-radius: 999px; width: 34px; height: 34px; cursor: pointer; background: rgba(0,0,0,0.72); color: #fff; font-size: 20px; line-height: 1;">x</button>
+    <video id="ecoVideoPlayer" src="/files/vid2.mp4" controls playsinline preload="metadata" style="width: 100%; height: 100%; display: block; object-fit: contain;"></video>
+  </div>
+</div>
+
+<script>
+  (function() {
+    var launch = document.getElementById('ecoVideoLaunch');
+    var modal = document.getElementById('ecoVideoModal');
+    var closeBtn = document.getElementById('ecoVideoClose');
+    var player = document.getElementById('ecoVideoPlayer');
+
+    if (!launch || !modal || !closeBtn || !player) return;
+
+    function closeModal() {
+      modal.style.display = 'none';
+      document.body.style.overflow = '';
+      player.pause();
+      player.currentTime = 0;
+    }
+
+    launch.addEventListener('click', function() {
+      modal.style.display = 'flex';
+      document.body.style.overflow = 'hidden';
+      player.muted = false;
+      var playPromise = player.play();
+      if (playPromise && typeof playPromise.catch === 'function') {
+        playPromise.catch(function() {});
+      }
+    });
+
+    closeBtn.addEventListener('click', closeModal);
+    modal.addEventListener('click', function(e) {
+      if (e.target === modal) closeModal();
+    });
+
+    document.addEventListener('keydown', function(e) {
+      if (e.key === 'Escape' && modal.style.display === 'flex') {
+        closeModal();
+      }
+    });
+  })();
+</script>
 
 - I stumbled into open-source like one discovers a hidden alley in a busy city — by accident, but never by mistake. I launched my first public projects, contributed on [GitHub](https://github.com/aryan6673), and started leaving footprints in a digital world where age, location, and labels didn’t matter.  
 
