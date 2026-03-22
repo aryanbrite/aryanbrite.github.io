@@ -81,6 +81,15 @@ A life in phases — each one a chapter.
 
 - Before high school began, I explored content writing, e-commerce, marketing, and fellowships. None worked out, but each failure taught me something, and I kept moving.  
 
+<div style="margin: 8px 0 16px 0; display: flex; gap: 10px; overflow-x: auto; padding: 2px 2px 6px 2px;">
+  <a href="/files/web.png" target="_blank" rel="noopener noreferrer" style="display: block; flex: 0 0 auto;">
+    <img src="/files/web.png" alt="E-commerce project image 1" loading="lazy" style="display: block; width: 180px; height: 120px; object-fit: cover; border-radius: 10px; border: 1px solid rgba(0,0,0,0.16);" />
+  </a>
+  <a href="/files/web1.png" target="_blank" rel="noopener noreferrer" style="display: block; flex: 0 0 auto;">
+    <img src="/files/web1.png" alt="E-commerce project image 2" loading="lazy" style="display: block; width: 180px; height: 120px; object-fit: cover; border-radius: 10px; border: 1px solid rgba(0,0,0,0.16);" />
+  </a>
+</div>
+
 - I stumbled into open-source like one discovers a hidden alley in a busy city — by accident, but never by mistake. I launched my first public projects, contributed on [GitHub](https://github.com/aryan6673), and started leaving footprints in a digital world where age, location, and labels didn’t matter.  
 
 - Class 11 arrived with its own storm. My grades dipped to a 2.6/4.0 CGPA — but strangely, I wasn’t shaken. That year taught me to uncouple academic metrics from personal growth. Not everything that counts can be counted.  
