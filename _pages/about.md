@@ -88,6 +88,9 @@ A life in phases — each one a chapter.
   <a href="/files/web1.png" target="_blank" rel="noopener noreferrer" style="display: block; flex: 0 0 auto;">
     <img src="/files/web1.png" alt="E-commerce project image 2" loading="lazy" style="display: block; width: 180px; height: 120px; object-fit: cover; border-radius: 10px; border: 1px solid rgba(0,0,0,0.16);" />
   </a>
+  <a href="/files/web2.png" target="_blank" rel="noopener noreferrer" style="display: block; flex: 0 0 auto;">
+    <img src="/files/web2.png" alt="E-commerce project image 3" loading="lazy" style="display: block; width: 180px; height: 120px; object-fit: cover; border-radius: 10px; border: 1px solid rgba(0,0,0,0.16);" />
+  </a>
 </div>
 
 - I stumbled into open-source like one discovers a hidden alley in a busy city — by accident, but never by mistake. I launched my first public projects, contributed on [GitHub](https://github.com/aryan6673), and started leaving footprints in a digital world where age, location, and labels didn’t matter.  
