@@ -424,30 +424,30 @@ A life in phases — each one a chapter.
     <button class="aboutLocalVideoLaunch" data-video-src="/files/cfd1.mp4" type="button" aria-label="Open Campfire Delhi video 1" style="position: absolute; inset: 0; border: 0; background: transparent; cursor: pointer;"></button>
   </div>
   <a href="/files/cfd2.jpg" target="_blank" rel="noopener noreferrer" style="display: block; flex: 0 0 auto;">
-    <img src="/files/cfd2.jpg" alt="Campfire Delhi photo 2" loading="lazy" style="display: block; width: 180px; height: 120px; object-fit: cover; border-radius: 10px; border: 1px solid rgba(0,0,0,0.16);" />
+    <img src="/files/cfd2.jpg" alt="Campfire Delhi photo 2" loading="lazy" style="display: block; width: 320px; height: 200px; object-fit: cover; border-radius: 10px; border: 1px solid rgba(0,0,0,0.16);" />
   </a>
   <a href="/files/cfd3.jpeg" target="_blank" rel="noopener noreferrer" style="display: block; flex: 0 0 auto;">
-    <img src="/files/cfd3.jpeg" alt="Campfire Delhi photo 3" loading="lazy" style="display: block; width: 180px; height: 120px; object-fit: cover; border-radius: 10px; border: 1px solid rgba(0,0,0,0.16);" />
+    <img src="/files/cfd3.jpeg" alt="Campfire Delhi photo 3" loading="lazy" style="display: block; width: 320px; height: 200px; object-fit: cover; border-radius: 10px; border: 1px solid rgba(0,0,0,0.16);" />
   </a>
   <a href="/files/cfd4.jpeg" target="_blank" rel="noopener noreferrer" style="display: block; flex: 0 0 auto;">
-    <img src="/files/cfd4.jpeg" alt="Campfire Delhi photo 4" loading="lazy" style="display: block; width: 180px; height: 120px; object-fit: cover; border-radius: 10px; border: 1px solid rgba(0,0,0,0.16);" />
+    <img src="/files/cfd4.jpeg" alt="Campfire Delhi photo 4" loading="lazy" style="display: block; width: 320px; height: 200px; object-fit: cover; border-radius: 10px; border: 1px solid rgba(0,0,0,0.16);" />
   </a>
   <div style="display: block; flex: 0 0 auto; position: relative; width: 180px; height: 120px; border-radius: 10px; overflow: hidden; border: 1px solid rgba(0,0,0,0.16); background: #000;">
     <video src="/files/cfd5.mp4" autoplay muted loop playsinline preload="metadata" style="display: block; width: 180px; height: 120px; object-fit: cover; pointer-events: none;" aria-label="Campfire Delhi media 5 video preview"></video>
     <button class="aboutLocalVideoLaunch" data-video-src="/files/cfd5.mp4" type="button" aria-label="Open Campfire Delhi video 5" style="position: absolute; inset: 0; border: 0; background: transparent; cursor: pointer;"></button>
   </div>
   <a href="/files/cfd6.jpeg" target="_blank" rel="noopener noreferrer" style="display: block; flex: 0 0 auto;">
-    <img src="/files/cfd6.jpeg" alt="Campfire Delhi photo 6" loading="lazy" style="display: block; width: 180px; height: 120px; object-fit: cover; border-radius: 10px; border: 1px solid rgba(0,0,0,0.16);" />
+    <img src="/files/cfd6.jpeg" alt="Campfire Delhi photo 6" loading="lazy" style="display: block; width: 320px; height: 200px; object-fit: cover; border-radius: 10px; border: 1px solid rgba(0,0,0,0.16);" />
   </a>
   <div style="display: block; flex: 0 0 auto; position: relative; width: 180px; height: 120px; border-radius: 10px; overflow: hidden; border: 1px solid rgba(0,0,0,0.16); background: #000;">
     <video src="/files/cfd7.mp4" autoplay muted loop playsinline preload="metadata" style="display: block; width: 180px; height: 120px; object-fit: cover; pointer-events: none;" aria-label="Campfire Delhi media 7 video preview"></video>
     <button class="aboutLocalVideoLaunch" data-video-src="/files/cfd7.mp4" type="button" aria-label="Open Campfire Delhi video 7" style="position: absolute; inset: 0; border: 0; background: transparent; cursor: pointer;"></button>
   </div>
   <a href="/files/cfd8.jpeg" target="_blank" rel="noopener noreferrer" style="display: block; flex: 0 0 auto;">
-    <img src="/files/cfd8.jpeg" alt="Campfire Delhi photo 8" loading="lazy" style="display: block; width: 180px; height: 120px; object-fit: cover; border-radius: 10px; border: 1px solid rgba(0,0,0,0.16);" />
+    <img src="/files/cfd8.jpeg" alt="Campfire Delhi photo 8" loading="lazy" style="display: block; width: 320px; height: 200px; object-fit: cover; border-radius: 10px; border: 1px solid rgba(0,0,0,0.16);" />
   </a>
   <a href="/files/cfd9.jpeg" target="_blank" rel="noopener noreferrer" style="display: block; flex: 0 0 auto;">
-    <img src="/files/cfd9.jpeg" alt="Campfire Delhi photo 9" loading="lazy" style="display: block; width: 180px; height: 120px; object-fit: cover; border-radius: 10px; border: 1px solid rgba(0,0,0,0.16);" />
+    <img src="/files/cfd9.jpeg" alt="Campfire Delhi photo 9" loading="lazy" style="display: block; width: 320px; height: 200px; object-fit: cover; border-radius: 10px; border: 1px solid rgba(0,0,0,0.16);" />
   </a>
 </div>
 
