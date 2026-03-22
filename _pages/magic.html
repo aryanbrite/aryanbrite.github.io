@@ -6,6 +6,11 @@ title: "Hey Reviewer!"
 ---
 
 <style>
+/* Force the entire page background to vintage regardless of OS theme preference */
+body, html, .page, .page__inner-wrap {
+  background-color: #fdf6e3 !important;
+}
+
 .magic-container {
   display: flex;
   flex-direction: column;
@@ -19,18 +24,17 @@ title: "Hey Reviewer!"
 .magic-text {
   font-size: 1.6rem;
   margin-bottom: 50px;
-  color: var(--global-text-color);
+  color: #4a4138; /* Forced vintage color */
   max-width: 700px;
   line-height: 1.6;
-  opacity: 1;
   transition: opacity 0.4s ease, transform 0.4s ease;
 }
 .magic-btn {
   padding: 14px 32px;
   font-size: 1.25rem;
   font-weight: 600;
-  background-color: var(--global-link-color);
-  color: var(--global-bg-color);
+  background-color: #b5533c; /* Forced vintage button color */
+  color: #fdf6e3; /* Forced vintage text over button */
   border: none;
   border-radius: 8px;
   cursor: pointer;
@@ -46,16 +50,11 @@ title: "Hey Reviewer!"
 .magic-btn:active {
   transform: translateY(1px);
 }
-.hidden {
-  opacity: 0 !important;
-  transform: translateY(15px);
-  pointer-events: none;
-}
 </style>
 
 <div class="magic-container">
-  <div class="magic-text" id="magicText">Hi reviewer !!</div>
-  <button class="magic-btn" id="magicBtn" onclick="nextStep()">Hii</button>
+  <div class="magic-text" id="magicText" style="opacity: 1; transform: translateY(0);">Hi reviewer !!</div>
+  <button class="magic-btn" id="magicBtn" style="opacity: 1; transform: translateY(0);">Hii</button>
 </div>
 
 <script>
@@ -67,31 +66,40 @@ const steps = [
   { text: "Reviewing applications is tough—especially when the pool is so competitive as well as filled with a lot of slop.<br><br>I hope this break will help you give the same effort as you were giving to the applications in the beginning. Have a good day!<br><br><i>This is a special version of my site just for you cause you are so busy. I'll redirect you straight to my timeline, but you can scroll up whenever you want to know more about my personality.</i>", btn: "okayyy" }
 ];
 
-let currentStep = 0;
+document.addEventListener("DOMContentLoaded", function() {
+  var currentStep = 0;
+  var btnEl = document.getElementById('magicBtn');
+  var textEl = document.getElementById('magicText');
 
-function nextStep() {
-  currentStep++;
-  const textEl = document.getElementById('magicText');
-  const btnEl = document.getElementById('magicBtn');
+  if (btnEl) {
+    btnEl.addEventListener('click', function(e) {
+      e.preventDefault(); // Prevent accidental form submission
+      currentStep++;
 
-  if (currentStep >= steps.length) {
-    // Redirect to the timeline section of the homepage!
-    window.location.href = "/#my-timeline";
-    return;
+      if (currentStep >= steps.length) {
+        window.location.href = "/#my-timeline";
+        return;
+      }
+
+      // Fade out explicitly
+      textEl.style.opacity = '0';
+      textEl.style.transform = 'translateY(15px)';
+      btnEl.style.opacity = '0';
+      btnEl.style.transform = 'translateY(15px)';
+      btnEl.style.pointerEvents = 'none';
+
+      // Wait for fade out, update text, fade in
+      setTimeout(function() {
+        textEl.innerHTML = steps[currentStep].text;
+        btnEl.innerHTML = steps[currentStep].btn;
+        
+        textEl.style.opacity = '1';
+        textEl.style.transform = 'translateY(0)';
+        btnEl.style.opacity = '1';
+        btnEl.style.transform = 'translateY(0)';
+        btnEl.style.pointerEvents = 'auto';
+      }, 400); // 400ms matches the CSS transition time
+    });
   }
-
-  // Fade out
-  textEl.classList.add('hidden');
-  btnEl.classList.add('hidden');
-
-  setTimeout(() => {
-    // Update content sequentially
-    textEl.innerHTML = steps[currentStep].text;
-    btnEl.innerHTML = steps[currentStep].btn;
-    
-    // Fade in
-    textEl.classList.remove('hidden');
-    btnEl.classList.remove('hidden');
-  }, 400); // Waits for the 0.4s CSS fade-out transition
-}
+});
 </script>
