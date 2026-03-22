@@ -90,7 +90,7 @@ A life in phases — each one a chapter.
   </a>
   <div style="display: block; flex: 0 0 auto; position: relative; width: 180px; height: 120px; border-radius: 10px; overflow: hidden; border: 1px solid rgba(0,0,0,0.16); background: #000;">
     <video src="/files/vid2.mp4" autoplay muted loop playsinline preload="metadata" style="display: block; width: 180px; height: 120px; object-fit: cover; pointer-events: none;" aria-label="E-commerce project video preview"></video>
-    <button id="ecoVideoLaunch" type="button" aria-label="Open e-commerce video" style="position: absolute; inset: 0; border: 0; background: transparent; cursor: pointer;"></button>
+    <button class="aboutLocalVideoLaunch" data-video-src="/files/vid2.mp4" type="button" aria-label="Open e-commerce video" style="position: absolute; inset: 0; border: 0; background: transparent; cursor: pointer;"></button>
   </div>
 </div>
 
@@ -103,12 +103,11 @@ A life in phases — each one a chapter.
 
 <script>
   (function() {
-    var launch = document.getElementById('ecoVideoLaunch');
     var modal = document.getElementById('ecoVideoModal');
     var closeBtn = document.getElementById('ecoVideoClose');
     var player = document.getElementById('ecoVideoPlayer');
 
-    if (!launch || !modal || !closeBtn || !player) return;
+    if (!modal || !closeBtn || !player) return;
 
     function closeModal() {
       modal.style.display = 'none';
@@ -117,7 +116,11 @@ A life in phases — each one a chapter.
       player.currentTime = 0;
     }
 
-    launch.addEventListener('click', function() {
+    document.addEventListener('click', function(e) {
+      var launch = e.target.closest('.aboutLocalVideoLaunch');
+      if (!launch) return;
+      var src = launch.getAttribute('data-video-src');
+      if (src) player.src = src;
       modal.style.display = 'flex';
       document.body.style.overflow = 'hidden';
       player.muted = false;
@@ -414,6 +417,39 @@ A life in phases — each one a chapter.
 - I applied to become the Lead Organizer for [*Campfire Delhi*](https://campfire.hackclub.com/delhi) at [*Hack Club*](https://hackclub.com) — and I got selected.  
 
   According to my regional manager, all the satellite events in Delhi were actually an absolute failure — with around 23% ship rate and ~21% NPS. That showed me that strong sponsors or venues don’t guarantee a strong community. When I organized Campfire Delhi, we reached around 90% ship rate and ~75% NPS — unexpected for a 100+ participant event. People joined from across India, and even after the event, our Slack community is still the most active Campfire Slack channel. Many couldn’t move on from the experience — some even added it to their Slack profiles. The event crossed the requirements for Trusted Organizer recognition from Hack Club. In a way, it felt ironic — not much was expected, but it became one of the strongest community experiences. For me, the most important outcome wasn’t the numbers — it was building a real sense of belonging.
+
+<div style="margin: 10px 0 20px 1.6em; display: flex; gap: 10px; overflow-x: auto; padding: 2px 2px 6px 2px;">
+  <div style="display: block; flex: 0 0 auto; position: relative; width: 180px; height: 120px; border-radius: 10px; overflow: hidden; border: 1px solid rgba(0,0,0,0.16); background: #000;">
+    <video src="/files/cfd1.mp4" autoplay muted loop playsinline preload="metadata" style="display: block; width: 180px; height: 120px; object-fit: cover; pointer-events: none;" aria-label="Campfire Delhi media 1 video preview"></video>
+    <button class="aboutLocalVideoLaunch" data-video-src="/files/cfd1.mp4" type="button" aria-label="Open Campfire Delhi video 1" style="position: absolute; inset: 0; border: 0; background: transparent; cursor: pointer;"></button>
+  </div>
+  <a href="/files/cfd2.jpg" target="_blank" rel="noopener noreferrer" style="display: block; flex: 0 0 auto;">
+    <img src="/files/cfd2.jpg" alt="Campfire Delhi photo 2" loading="lazy" style="display: block; width: 180px; height: 120px; object-fit: cover; border-radius: 10px; border: 1px solid rgba(0,0,0,0.16);" />
+  </a>
+  <a href="/files/cfd3.jpeg" target="_blank" rel="noopener noreferrer" style="display: block; flex: 0 0 auto;">
+    <img src="/files/cfd3.jpeg" alt="Campfire Delhi photo 3" loading="lazy" style="display: block; width: 180px; height: 120px; object-fit: cover; border-radius: 10px; border: 1px solid rgba(0,0,0,0.16);" />
+  </a>
+  <a href="/files/cfd4.jpeg" target="_blank" rel="noopener noreferrer" style="display: block; flex: 0 0 auto;">
+    <img src="/files/cfd4.jpeg" alt="Campfire Delhi photo 4" loading="lazy" style="display: block; width: 180px; height: 120px; object-fit: cover; border-radius: 10px; border: 1px solid rgba(0,0,0,0.16);" />
+  </a>
+  <div style="display: block; flex: 0 0 auto; position: relative; width: 180px; height: 120px; border-radius: 10px; overflow: hidden; border: 1px solid rgba(0,0,0,0.16); background: #000;">
+    <video src="/files/cfd5.mp4" autoplay muted loop playsinline preload="metadata" style="display: block; width: 180px; height: 120px; object-fit: cover; pointer-events: none;" aria-label="Campfire Delhi media 5 video preview"></video>
+    <button class="aboutLocalVideoLaunch" data-video-src="/files/cfd5.mp4" type="button" aria-label="Open Campfire Delhi video 5" style="position: absolute; inset: 0; border: 0; background: transparent; cursor: pointer;"></button>
+  </div>
+  <a href="/files/cfd6.jpeg" target="_blank" rel="noopener noreferrer" style="display: block; flex: 0 0 auto;">
+    <img src="/files/cfd6.jpeg" alt="Campfire Delhi photo 6" loading="lazy" style="display: block; width: 180px; height: 120px; object-fit: cover; border-radius: 10px; border: 1px solid rgba(0,0,0,0.16);" />
+  </a>
+  <div style="display: block; flex: 0 0 auto; position: relative; width: 180px; height: 120px; border-radius: 10px; overflow: hidden; border: 1px solid rgba(0,0,0,0.16); background: #000;">
+    <video src="/files/cfd7.mp4" autoplay muted loop playsinline preload="metadata" style="display: block; width: 180px; height: 120px; object-fit: cover; pointer-events: none;" aria-label="Campfire Delhi media 7 video preview"></video>
+    <button class="aboutLocalVideoLaunch" data-video-src="/files/cfd7.mp4" type="button" aria-label="Open Campfire Delhi video 7" style="position: absolute; inset: 0; border: 0; background: transparent; cursor: pointer;"></button>
+  </div>
+  <a href="/files/cfd8.jpeg" target="_blank" rel="noopener noreferrer" style="display: block; flex: 0 0 auto;">
+    <img src="/files/cfd8.jpeg" alt="Campfire Delhi photo 8" loading="lazy" style="display: block; width: 180px; height: 120px; object-fit: cover; border-radius: 10px; border: 1px solid rgba(0,0,0,0.16);" />
+  </a>
+  <a href="/files/cfd9.jpeg" target="_blank" rel="noopener noreferrer" style="display: block; flex: 0 0 auto;">
+    <img src="/files/cfd9.jpeg" alt="Campfire Delhi photo 9" loading="lazy" style="display: block; width: 180px; height: 120px; object-fit: cover; border-radius: 10px; border: 1px solid rgba(0,0,0,0.16);" />
+  </a>
+</div>
 
 <p align="right"><em>Last updated: March 22, 2026</em></p>
 
