@@ -73,31 +73,33 @@ Like a book on a shelf you didn’t expect to love — but did.
 
 ## My Timeline
 
-A life in phases — each one a chapter, not a checklist. Here's how it's unfolded so far:
+A life in phases — each one a chapter, not a checklist.
 
 ### Phase 1 — High School (2024–2026)
 
-- Finished middle school with a 3.7/4.0 CGPA — solid, not groundbreaking, but it left me hopeful. With an eager mind and a restless heart, I stepped into high school, choosing Science as my major. It felt less like a decision, more like a quiet dare to myself.
+- Finished middle school with a 3.7/4.0 CGPA — solid, not extraordinary, but enough to feel hopeful. Entered high school and chose Science, less as a calculated decision and more as a bet on myself.  
 
-- Before high school formally began, I wandered — through content writing, e-commerce trials, marketing misadventures, and even fellowship applications. None bore fruit. But each failure whispered a different lesson, and I was listening.
+- Before high school began, I explored content writing, e-commerce, marketing, and fellowships. None worked out, but each failure taught me something, and I kept moving.  
 
-- I stumbled into open-source like one discovers a hidden alley in a busy city — by accident, but never by mistake. I launched my first public projects, contributed on GitHub, and started leaving footprints in a digital world where age, location, and labels didn't matter.
+- I stumbled into open-source like one discovers a hidden alley in a busy city — by accident, but never by mistake. I launched my first public projects, contributed on GitHub, and started leaving footprints in a digital world where age, location, and labels didn’t matter.  
 
-- Class 11 arrived with its own storm. My grades dipped to a 2.6/4.0 CGPA — but strangely, I wasn't shaken. That year taught me to uncouple academic metrics from personal growth. Not everything that counts can be counted.
+- Class 11 arrived with its own storm. My grades dipped to a 2.6/4.0 CGPA — but strangely, I wasn’t shaken. That year taught me to uncouple academic metrics from personal growth. Not everything that counts can be counted.  
 
-- Amid the chaos, I authored [*Zero to Job*](https://www.amazon.com/Zero-Job-job-without-waiting-college-ebook/dp/B0D57HYFZ5), a student's guide to exploring IT careers. It began as a monetization idea, ended as a near-free resource tucked in a quiet corner of the internet. Sometimes, impact matters more than income.
+- I am from an ordinary public school in India, where exposure to STEM or engineering wasn’t strong, and it wasn’t really encouraged either. I noticed that many juniors only saw Computer Science as making websites or apps. That gap led me to write [*Zero to Job*](https://www.amazon.com/Zero-Job-job-without-waiting-college-ebook/dp/B0D57HYFZ5), a guide to help students explore the broader landscape of IT careers. It started as a monetization idea but became a near-free resource focused on impact.  
 
-- After many average experiments, one idea finally clicked — a quiet breakthrough, born from boredom and curiosity. I got 2.5 million streams on a song I posted randomly.
+- After many average experiments, one moment stood out — I posted a song casually, and it reached 2.5 million streams. I don’t take much credit for it; I think it was mostly luck. But it reminded me that outcomes aren’t always predictable.  
 
-- The start of Class 12 was beautifully unproductive. For two months, I didn't study a word. Instead, I caught feelings for a girl who never looked back. ("psst… she never even noticed")
+- The start of Class 12 was beautifully unproductive. For two months, I didn’t study a word. Instead, I caught feelings for a girl who never looked back. (“psst… she never even noticed”)  
 
-- Eventually, I joined [*HackClub*](https://hackclub.com) — a place that felt like home for builders and dreamers. Collaborated with strangers who became friends. Built things that didn't just work — they sparked something inside me.
+- Eventually, I joined [*Hack Club*](https://hackclub.com), where I collaborated with others, built projects, and found a community that genuinely cares about creating things.  
 
-- Volunteered as a Program Manager at [*YIAW*](https://yiaw.org), helping students navigate their mental wellbeing. It wasn't a fancy title — just quiet hours spent listening, guiding, and reminding young minds they weren't alone.
+- As a Program Manager at [*YIAW*](https://yiaw.org), I designed programs for teenagers to connect with STEM. I worked on complete timelines — how the program would run, how management would function, and how to ensure the community stayed strong. I documented everything, created structured plans, and presented ideas and reports to my executives. After completing my journey, I was awarded the Best Volunteer Award. I still remember my lead saying, “Aryan, how are you always able to get your work done on time?” — that moment stayed with me. More than anything, I earned trust there.  
 
-- Founded my own nonprofit: the [*DeyWeaver Foundation*](https://npo.deyweaver.live) — a 501(c)(3). We got fiscally sponsored by [*IFERS*](https://ifers.org), under the generous guidance of Professor [Newton Lee](https://en.wikipedia.org/wiki/Newton_Lee) — whose support reminded me that even the boldest visions need roots.
+- I started the [*DeyWeaver Foundation*](https://npo.deyweaver.live) as a fiscally sponsored project under [*IFERS*](https://ifers.org). The idea was to build something similar in spirit to Mozilla — products made for people, mostly free, with a strong sense of community like [*Hack Club*](https://hackclub.com). The goal was to create AI SaaS tools that are accessible, because I noticed how expensive AI infrastructure can be and how that limits access for most people.  
 
-- Eventually, I applied to become the Lead Organizer of [*Campfire Delhi*](https://campfire.hackclub.com/delhi) at [*HackClub*](https://hackclub.com). I wasn't expecting much — in my head, it was just another form to fill, another shot in the dark. But out of nowhere, I got selected.
+- I applied to become the Lead Organizer for [*Campfire Delhi*](https://campfire.hackclub.com/delhi) at [*Hack Club*](https://hackclub.com) — and I got selected.  
+
+  According to my regional manager, most satellite events in Delhi had struggled — with around 23% ship rate and ~21% NPS. That showed me that strong sponsors or venues don’t guarantee a strong community. When I organized Campfire Delhi, we reached around 90% ship rate and ~75% NPS — unexpected for a 100+ participant event. People joined from across India, and even after the event, the Slack community stayed highly active. Many couldn’t move on from the experience — some even added it to their Slack profiles. The event crossed the requirements for Trusted Organizer recognition from Hack Club. In a way, it felt ironic — not much was expected, but it became one of the strongest community experiences. For me, the most important outcome wasn’t the numbers — it was building a real sense of belonging.
 
 <p align="right"><em>Last updated: March 22, 2026</em></p>
 
