@@ -170,97 +170,25 @@ A life in phases — each one a chapter.
       border: 0;
     }
 
-    .np-video-title-mask {
-      position: absolute;
-      top: 0;
-      left: 0;
-      width: 78%;
-      height: 42px;
-      background: rgba(253, 246, 227, 0.94);
-      z-index: 2;
-      pointer-events: none;
-    }
-
-    .np-video-brand-mask {
-      position: absolute;
-      right: 0;
-      bottom: 0;
-      width: 92px;
-      height: 30px;
-      background: rgba(253, 246, 227, 0.94);
-      border-top-left-radius: 10px;
-      z-index: 2;
-      pointer-events: none;
-    }
-
-    .np-video-frame--active .np-video-title-mask,
-    .np-video-frame--active .np-video-brand-mask {
-      display: none;
-    }
-
-    .np-video-unmute {
-      position: absolute;
-      left: 50%;
-      bottom: 12px;
-      transform: translateX(-50%);
-      background: rgba(181, 83, 60, 0.94);
-      color: #fff;
-      border: 1px solid rgba(255, 255, 255, 0.45);
-      border-radius: 999px;
-      padding: 6px 12px;
-      font-size: 0.8rem;
-      line-height: 1;
-      cursor: pointer;
-      z-index: 3;
-    }
   </style>
 
   <div class="np-video-strip">
     <div class="np-video-card np-video-card--wide">
       <div class="np-video-frame np-video-frame--wide">
-        <iframe data-video-id="yo-239-EMB8" data-start="93" src="https://www.youtube-nocookie.com/embed/yo-239-EMB8?autoplay=1&mute=1&controls=0&modestbranding=1&iv_load_policy=3&cc_load_policy=0&disablekb=1&fs=0&playsinline=1&rel=0&loop=1&playlist=yo-239-EMB8&start=93" title="DeyWeaver clip 1" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-        <span class="np-video-title-mask" aria-hidden="true"></span>
-        <span class="np-video-brand-mask" aria-hidden="true"></span>
-        <button class="np-video-unmute" type="button">Tap for sound</button>
+        <iframe src="https://www.youtube-nocookie.com/embed/yo-239-EMB8?autoplay=1&mute=1&controls=0&modestbranding=1&iv_load_policy=3&cc_load_policy=0&disablekb=1&fs=0&playsinline=1&rel=0&loop=1&playlist=yo-239-EMB8&start=93" title="DeyWeaver clip 1" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
       </div>
     </div>
     <div class="np-video-card np-video-card--reel">
       <div class="np-video-frame np-video-frame--reel">
-        <iframe data-video-id="v_mf1m7HDrQ" src="https://www.youtube-nocookie.com/embed/v_mf1m7HDrQ?autoplay=1&mute=1&controls=0&modestbranding=1&iv_load_policy=3&cc_load_policy=0&disablekb=1&fs=0&playsinline=1&rel=0&loop=1&playlist=v_mf1m7HDrQ" title="DeyWeaver clip 3" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-        <span class="np-video-title-mask" aria-hidden="true"></span>
-        <span class="np-video-brand-mask" aria-hidden="true"></span>
-        <button class="np-video-unmute" type="button">Tap for sound</button>
+        <iframe src="https://www.youtube-nocookie.com/embed/v_mf1m7HDrQ?autoplay=1&mute=1&controls=0&modestbranding=1&iv_load_policy=3&cc_load_policy=0&disablekb=1&fs=0&playsinline=1&rel=0&loop=1&playlist=v_mf1m7HDrQ" title="DeyWeaver clip 3" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
       </div>
     </div>
     <div class="np-video-card np-video-card--wide">
       <div class="np-video-frame np-video-frame--wide">
-        <iframe data-video-id="LOORrCxwtDA" src="https://www.youtube-nocookie.com/embed/LOORrCxwtDA?autoplay=1&mute=1&controls=0&modestbranding=1&iv_load_policy=3&cc_load_policy=0&disablekb=1&fs=0&playsinline=1&rel=0&loop=1&playlist=LOORrCxwtDA" title="DeyWeaver clip 2" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-        <span class="np-video-title-mask" aria-hidden="true"></span>
-        <span class="np-video-brand-mask" aria-hidden="true"></span>
-        <button class="np-video-unmute" type="button">Tap for sound</button>
+        <iframe src="https://www.youtube-nocookie.com/embed/LOORrCxwtDA?autoplay=1&mute=1&controls=0&modestbranding=1&iv_load_policy=3&cc_load_policy=0&disablekb=1&fs=0&playsinline=1&rel=0&loop=1&playlist=LOORrCxwtDA" title="DeyWeaver clip 2" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
       </div>
     </div>
   </div>
-
-  <script>
-    (function() {
-      var buttons = document.querySelectorAll('.np-video-unmute');
-      buttons.forEach(function(btn) {
-        btn.addEventListener('click', function() {
-          var frame = btn.parentElement;
-          var iframe = frame.querySelector('iframe[data-video-id]');
-          if (!iframe) return;
-
-          var id = iframe.getAttribute('data-video-id');
-          var start = iframe.getAttribute('data-start');
-          var startParam = start ? '&start=' + encodeURIComponent(start) : '';
-          iframe.src = 'https://www.youtube-nocookie.com/embed/' + id + '?autoplay=1&mute=0&controls=1&modestbranding=1&iv_load_policy=3&playsinline=1&rel=0' + startParam;
-          frame.classList.add('np-video-frame--active');
-          btn.remove();
-        });
-      });
-    })();
-  </script>
 </div>
 
 - I applied to become the Lead Organizer for [*Campfire Delhi*](https://campfire.hackclub.com/delhi) at [*Hack Club*](https://hackclub.com) — and I got selected.  
