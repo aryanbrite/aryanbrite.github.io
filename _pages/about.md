@@ -242,14 +242,14 @@ A life in phases — each one a chapter.
 - Eventually, I joined [*Hack Club*](https://hackclub.com), where I collaborated with others, built projects, and found a community that genuinely cares about creating things.  
 
 <div style="margin: 8px 0 16px 1.6em; display: flex; gap: 10px; overflow-x: auto; padding: 2px 2px 6px 2px;">
-  <a href="/files/hc0.jpg" target="_blank" rel="noopener noreferrer" style="display: block; flex: 0 0 auto;">
-    <img src="/files/hc0.jpg" alt="Hack Club activity image 1" loading="lazy" style="display: block; width: 180px; height: 120px; object-fit: cover; border-radius: 10px; border: 1px solid rgba(0,0,0,0.16);" />
+  <a href="/files/hc0.jpeg" target="_blank" rel="noopener noreferrer" style="display: block; flex: 0 0 auto;">
+    <img src="/files/hc0.jpeg" alt="Hack Club activity image 1" loading="lazy" style="display: block; width: 180px; height: 120px; object-fit: cover; border-radius: 10px; border: 1px solid rgba(0,0,0,0.16);" />
   </a>
   <a href="/files/hc1.jpg" target="_blank" rel="noopener noreferrer" style="display: block; flex: 0 0 auto;">
     <img src="/files/hc1.jpg" alt="Hack Club activity image 2" loading="lazy" style="display: block; width: 180px; height: 120px; object-fit: cover; border-radius: 10px; border: 1px solid rgba(0,0,0,0.16);" />
   </a>
-  <a href="/files/hc2.jpg" target="_blank" rel="noopener noreferrer" style="display: block; flex: 0 0 auto;">
-    <img src="/files/hc2.jpg" alt="Hack Club activity image 3" loading="lazy" style="display: block; width: 180px; height: 120px; object-fit: cover; border-radius: 10px; border: 1px solid rgba(0,0,0,0.16);" />
+  <a href="/files/hc2.jpeg" target="_blank" rel="noopener noreferrer" style="display: block; flex: 0 0 auto;">
+    <img src="/files/hc2.jpeg" alt="Hack Club activity image 3" loading="lazy" style="display: block; width: 180px; height: 120px; object-fit: cover; border-radius: 10px; border: 1px solid rgba(0,0,0,0.16);" />
   </a>
   <a href="/files/hc3.jpg" target="_blank" rel="noopener noreferrer" style="display: block; flex: 0 0 auto;">
     <img src="/files/hc3.jpg" alt="Hack Club activity image 4" loading="lazy" style="display: block; width: 180px; height: 120px; object-fit: cover; border-radius: 10px; border: 1px solid rgba(0,0,0,0.16);" />
