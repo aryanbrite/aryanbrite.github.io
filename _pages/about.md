@@ -149,8 +149,8 @@ A life in phases — each one a chapter.
   <a href="/files/git2.png" target="_blank" rel="noopener noreferrer" style="display: block; flex: 0 0 auto;">
     <img src="/files/git2.png" alt="GitHub activity image 2" loading="lazy" style="display: block; width: 180px; height: 120px; object-fit: cover; border-radius: 10px; border: 1px solid rgba(0,0,0,0.16);" />
   </a>
-  <a href="/files/git3.png" target="_blank" rel="noopener noreferrer" style="display: block; flex: 0 0 auto;">
-    <img src="/files/git3.png" alt="GitHub activity image 3" loading="lazy" style="display: block; width: 180px; height: 120px; object-fit: cover; border-radius: 10px; border: 1px solid rgba(0,0,0,0.16);" />
+  <a href="/files/git4.png" target="_blank" rel="noopener noreferrer" style="display: block; flex: 0 0 auto;">
+    <img src="/files/git4.png" alt="GitHub activity image 3" loading="lazy" style="display: block; width: 180px; height: 120px; object-fit: cover; border-radius: 10px; border: 1px solid rgba(0,0,0,0.16);" />
   </a>
 </div>
 
