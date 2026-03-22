@@ -105,4 +105,4 @@ A life in phases — each one a chapter.
 
 ### Phase 2 — Gap Year
 
-- Trusting the gut again. I stumbled onto the [*Hack Club Gap Year*](https://manifesto.hackclub.com/) program. I realized I carry that exact same quiet, relentless builder energy they're looking for. So I applied. No overthinking, just following the impulse.
+- Trusting the gut again. I stumbled onto the [*Hack Club Gap Year*](https://manifesto.hackclub.com/) program. I realized I carry that exact same quiet, relentless builder energy they're looking for. So I applied.
