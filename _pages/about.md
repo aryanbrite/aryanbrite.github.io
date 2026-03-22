@@ -140,6 +140,55 @@ A life in phases — each one a chapter.
   })();
 </script>
 
+<div id="aboutImageModal" style="display: none; position: fixed; inset: 0; z-index: 100003; background: rgba(0,0,0,0.85); padding: 20px; align-items: center; justify-content: center;">
+  <div style="position: relative; width: min(96vw, 1200px); max-height: 92vh; display: flex; align-items: center; justify-content: center;">
+    <button id="aboutImageModalClose" type="button" aria-label="Close image preview" style="position: absolute; top: 8px; right: 8px; z-index: 2; border: 0; border-radius: 999px; width: 36px; height: 36px; cursor: pointer; background: rgba(0,0,0,0.72); color: #fff; font-size: 22px; line-height: 1;">x</button>
+    <img id="aboutImageModalImg" src="" alt="Expanded image preview" style="max-width: 100%; max-height: 92vh; width: auto; height: auto; object-fit: contain; border-radius: 12px; box-shadow: 0 20px 50px rgba(0,0,0,0.45);" />
+  </div>
+</div>
+
+<script>
+  (function() {
+    var modal = document.getElementById('aboutImageModal');
+    var modalImg = document.getElementById('aboutImageModalImg');
+    var closeBtn = document.getElementById('aboutImageModalClose');
+    if (!modal || !modalImg || !closeBtn) return;
+
+    function isImageLink(anchor) {
+      if (!anchor || !anchor.getAttribute) return false;
+      var href = anchor.getAttribute('href') || '';
+      if (!/^\/files\/.+\.(png|jpg|jpeg|webp|gif)$/i.test(href)) return false;
+      return !!anchor.querySelector('img');
+    }
+
+    function closeModal() {
+      modal.style.display = 'none';
+      document.body.style.overflow = '';
+      modalImg.src = '';
+    }
+
+    document.addEventListener('click', function(e) {
+      var link = e.target.closest('a');
+      if (!isImageLink(link)) return;
+      e.preventDefault();
+      modalImg.src = link.getAttribute('href');
+      modal.style.display = 'flex';
+      document.body.style.overflow = 'hidden';
+    });
+
+    closeBtn.addEventListener('click', closeModal);
+    modal.addEventListener('click', function(e) {
+      if (e.target === modal) closeModal();
+    });
+
+    document.addEventListener('keydown', function(e) {
+      if (e.key === 'Escape' && modal.style.display === 'flex') {
+        closeModal();
+      }
+    });
+  })();
+</script>
+
 - I stumbled into open-source like one discovers a hidden alley in a busy city — by accident, but never by mistake. I launched my first public projects, contributed on [GitHub](https://github.com/aryan6673), and started leaving footprints in a digital world where age, location, and labels didn’t matter.  
 
 <div style="margin: 8px 0 16px 1.6em; display: flex; gap: 10px; overflow-x: auto; padding: 2px 2px 6px 2px;">
