@@ -120,13 +120,13 @@ A life in phases — each one a chapter.
     }
 
     .np-video-card--wide {
-      min-width: min(94vw, 760px);
-      width: min(94vw, 760px);
+      min-width: min(78vw, 620px);
+      width: min(78vw, 620px);
     }
 
     .np-video-card--reel {
-      min-width: min(62vw, 240px);
-      width: min(62vw, 240px);
+      min-width: min(48vw, 190px);
+      width: min(48vw, 190px);
     }
 
     .np-video-frame {
