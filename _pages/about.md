@@ -81,7 +81,7 @@ A life in phases — each one a chapter.
 
 - Before high school began, I explored content writing, e-commerce, marketing, and fellowships. None worked out, but each failure taught me something, and I kept moving.  
 
-<div style="margin: 8px 0 16px 0; display: flex; gap: 10px; overflow-x: auto; padding: 2px 2px 6px 2px;">
+<div style="margin: 8px 0 16px 1.6em; display: flex; gap: 10px; overflow-x: auto; padding: 2px 2px 6px 2px;">
   <a href="/files/web.png" target="_blank" rel="noopener noreferrer" style="display: block; flex: 0 0 auto;">
     <img src="/files/web.png" alt="E-commerce project image 1" loading="lazy" style="display: block; width: 180px; height: 120px; object-fit: cover; border-radius: 10px; border: 1px solid rgba(0,0,0,0.16);" />
   </a>
@@ -96,7 +96,7 @@ A life in phases — each one a chapter.
 
 - I am from an ordinary public school in India, where exposure to STEM or engineering wasn’t strong, and it wasn’t really encouraged either. I noticed that many juniors only saw Computer Science as making websites or apps. That gap led me to write [*Zero to Job*](https://www.amazon.com/Zero-Job-job-without-waiting-college-ebook/dp/B0D57HYFZ5), a guide to help students explore the broader landscape of IT careers. It started as a monetization idea but became a near-free resource focused on impact.  
 
-<div style="margin: 10px 0 20px 0;">
+<div style="margin: 10px 0 20px 1.6em;">
   <div style="display: flex; gap: 10px; overflow-x: auto; padding: 4px 2px 8px 2px; scroll-snap-type: x mandatory; scrollbar-width: thin;">
     <a href="/files/img1.jpeg" target="_blank" rel="noopener noreferrer" style="display: block; flex: 0 0 auto; min-width: 160px; scroll-snap-align: start;">
       <img src="/files/img1.jpeg" alt="Book authorship image 1" loading="lazy" style="display: block; width: 160px; height: 220px; object-fit: cover; border-radius: 10px; border: 1px solid rgba(0,0,0,0.16);" />
@@ -123,8 +123,7 @@ A life in phases — each one a chapter.
 
 - I started the [*DeyWeaver Foundation*](https://npo.deyweaver.live) as a fiscally sponsored project under [*IFERS*](https://ifers.org). It is still small right now and mostly my way of learning open-source management in public. Building it taught me a lot about nonprofit operations, especially IRS compliance rules, documentation standards, and how governance decisions affect real projects.  
 
-<div style="margin: 14px 0 28px 0;">
-  <p style="margin: 0 0 10px 0; font-size: 0.95rem; opacity: 0.85;"><strong>Nonprofit work clips</strong> (swipe or scroll)</p>
+<div style="margin: 14px 0 28px 1.6em;">
   <style>
     .np-video-strip {
       display: flex;
