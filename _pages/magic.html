@@ -7,100 +7,17 @@ title: "Hey Reviewer!"
 
 <style>
 /* Force the entire page background to vintage regardless of OS theme preference */
-body, html, .page, .page__inner-wrap {
-  background-color: #fdf6e3 !important;
-}
-
-.magic-container {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  min-height: 60vh;
-  text-align: center;
-  font-family: 'Inter', 'Helvetica Neue', sans-serif;
-  margin-top: 40px;
-}
-.magic-text {
-  font-size: 1.6rem;
-  margin-bottom: 50px;
-  color: #4a4138 !important; /* Forced vintage color */
-  max-width: 700px;
-  line-height: 1.6;
-  opacity: 1;
-  transform: translateY(0);
-  transition: opacity 0.4s ease, transform 0.4s ease;
-}
-.magic-btn {
-  padding: 14px 32px;
-  font-size: 1.25rem;
-  font-weight: 600;
-  background-color: #b5533c !important; /* Forced vintage button color */
-  color: #fdf6e3 !important; /* Forced vintage text over button */
-  border: none;
-  border-radius: 8px;
-  cursor: pointer;
-  transition: all 0.3s ease;
-  box-shadow: 0 5px 15px rgba(0,0,0,0.1);
-  outline: none;
-  opacity: 1;
-  transform: translateY(0);
-}
-.magic-btn:hover {
-  filter: brightness(1.1);
-  transform: translateY(-2px);
-  box-shadow: 0 8px 20px rgba(0,0,0,0.15);
-}
-.magic-btn:active {
-  transform: translateY(1px);
-}
+body, html, .page, .page__inner-wrap { background-color: #fdf6e3 !important; }
+.magic-container { display: flex; flex-direction: column; justify-content: center; align-items: center; min-height: 60vh; text-align: center; font-family: 'Inter', 'Helvetica Neue', sans-serif; margin-top: 40px; }
+.magic-text { font-size: 1.6rem; margin-bottom: 50px; color: #4a4138 !important; max-width: 700px; line-height: 1.6; opacity: 1; transform: translateY(0); transition: opacity 0.4s ease, transform 0.4s ease; }
+.magic-btn { padding: 14px 32px; font-size: 1.25rem; font-weight: 600; background-color: #b5533c !important; color: #fdf6e3 !important; border: none; border-radius: 8px; cursor: pointer; transition: all 0.3s ease; box-shadow: 0 5px 15px rgba(0,0,0,0.1); outline: none; opacity: 1; transform: translateY(0); }
+.magic-btn:hover { filter: brightness(1.1); transform: translateY(-2px); box-shadow: 0 8px 20px rgba(0,0,0,0.15); }
+.magic-btn:active { transform: translateY(1px); }
 </style>
 
-<div class="magic-container">
+<div class="magic-container" id="magicContainerBlock">
   <div class="magic-text" id="magicText">Hi reviewer !!</div>
   <button class="magic-btn" id="magicBtn" onclick="window.magicNextStep(event)">Hii</button>
 </div>
 
-<script>
-// Bulletproof global scope definitions
-window.magicCurrentStep = 0;
-window.magicSteps = [
-  { text: "Hi reviewer !!", btn: "Hii" },
-  { text: "How is the weather in Vermont today?<br><br>Did you realize that you've been staring at the screen for idk <i>howww</i> long?", btn: "oh ya uff" },
-  { text: "First of all, take a break cause you have reviewed a lot of applications until now.", btn: "UMMmm" },
-  { text: "This is a reminder to take a 10 min break and drink water, coffee, or maybe go on a walk.", btn: "OKAYY !!" },
-  { text: "Reviewing applications is tough—especially when the pool is so competitive as well as filled with a lot of slop.<br><br>I hope this break will help you give the same effort as you were giving to the applications in the beginning. Have a good day!<br><br><i>This is a special version of my site just for you cause you are so busy. I'll redirect you straight to my timeline, but you can scroll up whenever you want to know more about my personality.</i>", btn: "okayyy" }
-];
-
-window.magicNextStep = function(e) {
-  if (e) e.preventDefault();
-  
-  window.magicCurrentStep++;
-  var textEl = document.getElementById('magicText');
-  var btnEl = document.getElementById('magicBtn');
-
-  if (window.magicCurrentStep >= window.magicSteps.length) {
-    window.location.href = "/#my-timeline";
-    return;
-  }
-
-  // Fade out explicitly
-  textEl.style.opacity = '0';
-  textEl.style.transform = 'translateY(15px)';
-  btnEl.style.opacity = '0';
-  btnEl.style.transform = 'translateY(15px)';
-  btnEl.style.pointerEvents = 'none';
-
-  // Wait for fade out, update text, fade in
-  setTimeout(function() {
-    textEl.innerHTML = window.magicSteps[window.magicCurrentStep].text;
-    btnEl.innerHTML = window.magicSteps[window.magicCurrentStep].btn;
-    
-    textEl.style.opacity = '1';
-    textEl.style.transform = 'translateY(0)';
-    btnEl.style.opacity = '1';
-    btnEl.style.transform = 'translateY(0)';
-    btnEl.style.pointerEvents = 'auto';
-  }, 400); // 400ms matches the CSS transition time
-};
-</script>
+<script src="/assets/js/magic-link.js"></script>
