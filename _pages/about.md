@@ -87,6 +87,24 @@ A life in phases — each one a chapter.
 
 - I am from an ordinary public school in India, where exposure to STEM or engineering wasn’t strong, and it wasn’t really encouraged either. I noticed that many juniors only saw Computer Science as making websites or apps. That gap led me to write [*Zero to Job*](https://www.amazon.com/Zero-Job-job-without-waiting-college-ebook/dp/B0D57HYFZ5), a guide to help students explore the broader landscape of IT careers. It started as a monetization idea but became a near-free resource focused on impact.  
 
+<div style="margin: 10px 0 20px 0;">
+  <p style="margin: 0 0 8px 0; font-size: 0.92rem; opacity: 0.85;"><strong>Book authorship snapshots</strong></p>
+  <div style="display: flex; gap: 10px; overflow-x: auto; padding: 4px 2px 8px 2px; scroll-snap-type: x mandatory; scrollbar-width: thin;">
+    <a href="/files/img1.jpeg" target="_blank" rel="noopener noreferrer" style="display: block; flex: 0 0 auto; min-width: 160px; scroll-snap-align: start;">
+      <img src="/files/img1.jpeg" alt="Book authorship image 1" loading="lazy" style="display: block; width: 160px; height: 220px; object-fit: cover; border-radius: 10px; border: 1px solid rgba(0,0,0,0.16);" />
+    </a>
+    <a href="/files/img2.jpeg" target="_blank" rel="noopener noreferrer" style="display: block; flex: 0 0 auto; min-width: 160px; scroll-snap-align: start;">
+      <img src="/files/img2.jpeg" alt="Book authorship image 2" loading="lazy" style="display: block; width: 160px; height: 220px; object-fit: cover; border-radius: 10px; border: 1px solid rgba(0,0,0,0.16);" />
+    </a>
+    <a href="/files/img3.jpeg" target="_blank" rel="noopener noreferrer" style="display: block; flex: 0 0 auto; min-width: 160px; scroll-snap-align: start;">
+      <img src="/files/img3.jpeg" alt="Book authorship image 3" loading="lazy" style="display: block; width: 160px; height: 220px; object-fit: cover; border-radius: 10px; border: 1px solid rgba(0,0,0,0.16);" />
+    </a>
+    <a href="/files/img4.jpeg" target="_blank" rel="noopener noreferrer" style="display: block; flex: 0 0 auto; min-width: 160px; scroll-snap-align: start;">
+      <img src="/files/img4.jpeg" alt="Book authorship image 4" loading="lazy" style="display: block; width: 160px; height: 220px; object-fit: cover; border-radius: 10px; border: 1px solid rgba(0,0,0,0.16);" />
+    </a>
+  </div>
+</div>
+
 - After many average experiments, one moment stood out — I posted a song casually, and it reached 2.5 million streams. I don’t take much credit for it; I think it was mostly luck. But it reminded me that outcomes aren’t always predictable.  
 
 - The start of Class 12 was beautifully unproductive. For two months, I didn’t study a word. Instead, I caught feelings for a girl who never looked back. (“psst… she never even noticed”)  
