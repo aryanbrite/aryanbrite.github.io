@@ -229,6 +229,14 @@ A life in phases — each one a chapter.
 
 - After many average experiments, one moment stood out — I posted a song casually, and it reached 2.5 million streams. I don’t take much credit for it; I think it was mostly luck. But it reminded me that outcomes aren’t always predictable.  
 
+<div style="margin: 8px 0 4px 1.6em; display: flex; gap: 10px; overflow-x: auto; padding: 2px 2px 6px 2px;">
+  <a href="/files/music1.png" target="_blank" rel="noopener noreferrer" style="display: block; flex: 0 0 auto;">
+    <img src="/files/music1.png" alt="Music achievement snapshot" loading="lazy" style="display: block; width: 220px; height: 140px; object-fit: cover; border-radius: 10px; border: 1px solid rgba(0,0,0,0.16);" />
+  </a>
+</div>
+
+<p style="margin: 0 0 14px 1.6em; font-size: 0.9rem; opacity: 0.82;"><em>Note: Sorry, my artist name isn’t public yet.</em></p>
+
 - The start of Class 12 was beautifully unproductive. For two months, I didn’t study a word. Instead, I caught feelings for a girl who never looked back. (“psst… she never even noticed”)  
 
 - Eventually, I joined [*Hack Club*](https://hackclub.com), where I collaborated with others, built projects, and found a community that genuinely cares about creating things.  
