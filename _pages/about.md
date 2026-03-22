@@ -241,7 +241,22 @@ A life in phases — each one a chapter.
 
 - Eventually, I joined [*Hack Club*](https://hackclub.com), where I collaborated with others, built projects, and found a community that genuinely cares about creating things.  
 
-- As a Program Manager at [*YIAW*](https://yiaw.org), a nonprofit organization, I designed programs for teenagers to connect with STEM. I worked on complete timelines — how the program would run, how management would function, and how to ensure the community stayed strong. I also had to make sure teens did not feel burnout, that the environment stayed collaborative, and that the overall flow of the program remained simple and easy to follow. I documented everything, created structured plans, and presented ideas and reports to my executives. After completing my journey, I was awarded the Best Volunteer Award. I still remember my lead saying, “Aryan, how are you always able to get your work done on time?” — that moment stayed with me. More than anything, I earned trust there.  
+<div style="margin: 8px 0 16px 1.6em; display: flex; gap: 10px; overflow-x: auto; padding: 2px 2px 6px 2px;">
+  <a href="/files/hc0.jpg" target="_blank" rel="noopener noreferrer" style="display: block; flex: 0 0 auto;">
+    <img src="/files/hc0.jpg" alt="Hack Club activity image 1" loading="lazy" style="display: block; width: 180px; height: 120px; object-fit: cover; border-radius: 10px; border: 1px solid rgba(0,0,0,0.16);" />
+  </a>
+  <a href="/files/hc1.jpg" target="_blank" rel="noopener noreferrer" style="display: block; flex: 0 0 auto;">
+    <img src="/files/hc1.jpg" alt="Hack Club activity image 2" loading="lazy" style="display: block; width: 180px; height: 120px; object-fit: cover; border-radius: 10px; border: 1px solid rgba(0,0,0,0.16);" />
+  </a>
+  <a href="/files/hc2.jpg" target="_blank" rel="noopener noreferrer" style="display: block; flex: 0 0 auto;">
+    <img src="/files/hc2.jpg" alt="Hack Club activity image 3" loading="lazy" style="display: block; width: 180px; height: 120px; object-fit: cover; border-radius: 10px; border: 1px solid rgba(0,0,0,0.16);" />
+  </a>
+  <a href="/files/hc3.jpg" target="_blank" rel="noopener noreferrer" style="display: block; flex: 0 0 auto;">
+    <img src="/files/hc3.jpg" alt="Hack Club activity image 4" loading="lazy" style="display: block; width: 180px; height: 120px; object-fit: cover; border-radius: 10px; border: 1px solid rgba(0,0,0,0.16);" />
+  </a>
+</div>
+
+- As a Program Manager at [*YIAW*](https://yiaw.org), a nonprofit organization, I designed programs for teenagers to connect with STEM. I worked on complete timelines — how the program would run, how management would function, and how to ensure the community stayed strong. I also had to make sure teens did not feel burnout, that the environment stayed collaborative, and that the overall flow of the program remained simple and easy to follow. I documented everything, created structured plans, and presented ideas and reports to my executives. After completing my journey, I was awarded the Best Volunteer Award. I still remember my lead saying, “Aryan, how are you always able to get your work done on time?” — that moment stayed with me. I also earned 387 PVSA certified volunteering hours. More than anything, I earned trust there.  
 
 - I started the [*DeyWeaver Foundation*](https://npo.deyweaver.live) as a fiscally sponsored project under [*IFERS*](https://ifers.org). It is still small right now and mostly my way of learning open-source management in public. Building it taught me a lot about nonprofit operations, especially IRS compliance rules, documentation standards, and how governance decisions affect real projects.  
 
@@ -456,6 +471,9 @@ A life in phases — each one a chapter.
   </a>
   <a href="/files/cfd9.jpeg" target="_blank" rel="noopener noreferrer" style="display: block; flex: 0 0 auto;">
     <img src="/files/cfd9.jpeg" alt="Campfire Delhi photo 9" loading="lazy" style="display: block; width: 320px; height: 200px; object-fit: cover; border-radius: 10px; border: 1px solid rgba(0,0,0,0.16);" />
+  </a>
+  <a href="/files/cfd10.jpeg" target="_blank" rel="noopener noreferrer" style="display: block; flex: 0 0 auto;">
+    <img src="/files/cfd10.jpeg" alt="Campfire Delhi photo 10" loading="lazy" style="display: block; width: 320px; height: 200px; object-fit: cover; border-radius: 10px; border: 1px solid rgba(0,0,0,0.16);" />
   </a>
 </div>
 
