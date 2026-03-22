@@ -19,7 +19,7 @@ And yet, here you are — reading words I wrote in silence, probably without eve
 
 ---
 
-## I start early. Always have.
+## I Just Went With It
 
 I never waited for permission. While most people followed maps handed to them, I trusted something quieter — my own gut. That still voice inside me that whispered, *“Try it now. Build it now. Learn it now.”* Even when nothing made sense, I listened. And it led me to places no curriculum ever mentioned.
 
@@ -27,23 +27,15 @@ I don’t think in terms of “career plans” or “exit strategies.” I think
 
 ---
 
-## This isn’t a pitch. It’s a reflection.
+## Something a Bit More Honest
 
 I wasn’t sure what to write here. So I did what I always do when I’m unsure: I stared at the blank page until it stopped staring back. Then I wrote this.
 
-No elevator pitch. No bullet points. No pretending I know more than I do.  
-Just this: I’m someone who thinks a lot — sometimes too much — about the gap between what we say and what we mean. About how often we speak in punchlines when what we really need are pauses.
+I’m someone who thinks a lot — sometimes too much — about the gap between what we say and what we mean. About how often we speak in punchlines when what we really need are pauses.
 
 Everyone’s busy performing. I get it. That’s how the game works. But what if we stopped? What if — just for a second — we stopped trying to be impressive and started being honest?
 
-This isn’t a portfolio. It’s a page.  
-Not a statement of purpose — more like a glitch in the system.  
-A moment to say: *Hey. I’m here. And I think. And I care.*
-
 If you’re reading this, maybe it wasn’t meant for you. But maybe that’s exactly why you should be reading it.
-
-So no, this isn’t a pitch.  
-It’s something quieter. Maybe even something real.
 
 ---
 
