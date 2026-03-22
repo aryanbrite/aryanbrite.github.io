@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-<div style="float: right; max-width: 350px; margin: 0 0 20px 30px; padding: 40px 20px; text-align: center; font-family: 'Inter', 'Helvetica Neue', Helvetica, sans-serif; color: #444; background: #ffffff; border: 1px solid #f0f0f0; border-radius: 8px; box-shadow: 0 10px 30px rgba(0,0,0,0.05);">
+<div style="float: right; max-width: 350px; margin: 0 0 20px 30px; padding: 40px 20px; text-align: center; font-family: 'Inter', 'Helvetica Neue', Helvetica, sans-serif; color: #4a4138; background: #fdf6e3; border: 1px solid #eee8d5; border-radius: 8px; box-shadow: 0 10px 30px rgba(0,0,0,0.05); user-select: none; -webkit-user-select: none; -ms-user-select: none; -moz-user-select: none;">
   <p style="margin: 0; font-size: 1.1rem; font-weight: 500; line-height: 1.6; letter-spacing: 0.5px; text-transform: uppercase;">
-    Loyalty is a two-way street.<br>
+    "Loyalty is a two-way street.<br>
     If I am asking for it from you,<br>
-    then you are getting it from me.
+    then you are getting it from me."
   </p>
 </div>
 
