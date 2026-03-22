@@ -10,15 +10,12 @@ redirect_from:
 <p style="text-align:center; margin-top:20px; font-size: 1.2rem;">Redirecting you to my live CV...</p>
 
 <script>
-  // ---------------------------------------------------------
-  // 👇 PASTE YOUR GOOGLE DRIVE SCROLLABLE PDF LINK BELOW 👇
-  // ---------------------------------------------------------
-  var pdfLink = "YOUR_PUBLIC_CV_LINK_HERE";
-  // ---------------------------------------------------------
+  // Host the PDF directly in this repo at /files/cv.pdf
+  var pdfLink = "/files/cv.pdf";
   
-  if (pdfLink !== "YOUR_PUBLIC_CV_LINK_HERE" && pdfLink.trim() !== "") {
+  if (pdfLink.trim() !== "") {
     window.location.replace(pdfLink);
   } else {
-    document.querySelector('p').innerHTML = "<b>Oops!</b> To activate this redirect, you need to open <code>_pages/cv.md</code> and replace <code>YOUR_PUBLIC_CV_LINK_HERE</code> with the actual link to your CV.";
+    document.querySelector('p').innerHTML = "<b>Oops!</b> Upload your CV PDF to <code>/files/cv.pdf</code> so this page can redirect to it.";
   }
 </script>
