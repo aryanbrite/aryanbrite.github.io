@@ -25,6 +25,7 @@ main:
     
   - title: "CV"
     url: /cv/
+    new_tab: true
     
   # - title: "CV"
   #   url: /cv-json/
