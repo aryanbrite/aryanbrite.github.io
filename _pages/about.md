@@ -239,17 +239,17 @@ A life in phases — each one a chapter.
         <button class="np-video-unmute" type="button">Tap for sound</button>
       </div>
     </div>
-    <div class="np-video-card np-video-card--wide">
-      <div class="np-video-frame np-video-frame--wide">
-        <iframe data-video-id="LOORrCxwtDA" src="https://www.youtube-nocookie.com/embed/LOORrCxwtDA?autoplay=1&mute=1&controls=0&modestbranding=1&iv_load_policy=3&cc_load_policy=0&disablekb=1&fs=0&playsinline=1&rel=0&loop=1&playlist=LOORrCxwtDA" title="DeyWeaver clip 2" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <div class="np-video-card np-video-card--reel">
+      <div class="np-video-frame np-video-frame--reel">
+        <iframe data-video-id="v_mf1m7HDrQ" src="https://www.youtube-nocookie.com/embed/v_mf1m7HDrQ?autoplay=1&mute=1&controls=0&modestbranding=1&iv_load_policy=3&cc_load_policy=0&disablekb=1&fs=0&playsinline=1&rel=0&loop=1&playlist=v_mf1m7HDrQ" title="DeyWeaver clip 3" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
         <span class="np-video-title-mask" aria-hidden="true"></span>
         <span class="np-video-brand-mask" aria-hidden="true"></span>
         <button class="np-video-unmute" type="button">Tap for sound</button>
       </div>
     </div>
-    <div class="np-video-card np-video-card--reel">
-      <div class="np-video-frame np-video-frame--reel">
-        <iframe data-video-id="v_mf1m7HDrQ" src="https://www.youtube-nocookie.com/embed/v_mf1m7HDrQ?autoplay=1&mute=1&controls=0&modestbranding=1&iv_load_policy=3&cc_load_policy=0&disablekb=1&fs=0&playsinline=1&rel=0&loop=1&playlist=v_mf1m7HDrQ" title="DeyWeaver clip 3" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <div class="np-video-card np-video-card--wide">
+      <div class="np-video-frame np-video-frame--wide">
+        <iframe data-video-id="LOORrCxwtDA" src="https://www.youtube-nocookie.com/embed/LOORrCxwtDA?autoplay=1&mute=1&controls=0&modestbranding=1&iv_load_policy=3&cc_load_policy=0&disablekb=1&fs=0&playsinline=1&rel=0&loop=1&playlist=LOORrCxwtDA" title="DeyWeaver clip 2" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
         <span class="np-video-title-mask" aria-hidden="true"></span>
         <span class="np-video-brand-mask" aria-hidden="true"></span>
         <button class="np-video-unmute" type="button">Tap for sound</button>
