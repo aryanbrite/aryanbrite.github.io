@@ -88,7 +88,6 @@ A life in phases — each one a chapter.
 - I am from an ordinary public school in India, where exposure to STEM or engineering wasn’t strong, and it wasn’t really encouraged either. I noticed that many juniors only saw Computer Science as making websites or apps. That gap led me to write [*Zero to Job*](https://www.amazon.com/Zero-Job-job-without-waiting-college-ebook/dp/B0D57HYFZ5), a guide to help students explore the broader landscape of IT careers. It started as a monetization idea but became a near-free resource focused on impact.  
 
 <div style="margin: 10px 0 20px 0;">
-  <p style="margin: 0 0 8px 0; font-size: 0.92rem; opacity: 0.85;"><strong>Book authorship snapshots</strong></p>
   <div style="display: flex; gap: 10px; overflow-x: auto; padding: 4px 2px 8px 2px; scroll-snap-type: x mandatory; scrollbar-width: thin;">
     <a href="/files/img1.jpeg" target="_blank" rel="noopener noreferrer" style="display: block; flex: 0 0 auto; min-width: 160px; scroll-snap-align: start;">
       <img src="/files/img1.jpeg" alt="Book authorship image 1" loading="lazy" style="display: block; width: 160px; height: 220px; object-fit: cover; border-radius: 10px; border: 1px solid rgba(0,0,0,0.16);" />
@@ -128,11 +127,11 @@ A life in phases — each one a chapter.
     }
 
     .np-video-card {
-      background: #101010;
+      background: #d9c99a;
       border-radius: 12px;
-      border: 1px solid #2a2a2a;
+      border: 1px solid #b49f6b;
       padding: 8px;
-      box-shadow: 0 8px 24px rgba(0, 0, 0, 0.22);
+      box-shadow: 0 8px 20px rgba(102, 80, 34, 0.22);
       scroll-snap-align: start;
       flex: 0 0 auto;
     }
@@ -152,7 +151,7 @@ A life in phases — each one a chapter.
       width: 100%;
       border-radius: 8px;
       overflow: hidden;
-      background: #000;
+      background: #d4be85;
     }
 
     .np-video-frame--wide {
@@ -169,6 +168,49 @@ A life in phases — each one a chapter.
       width: 100%;
       height: 100%;
       border: 0;
+      filter: sepia(0.35) saturate(0.82) contrast(0.9) brightness(0.93);
+    }
+
+    .np-video-frame::before {
+      content: "";
+      position: absolute;
+      inset: 0;
+      background: linear-gradient(to bottom, rgba(226, 204, 145, 0.42), rgba(226, 204, 145, 0.08) 35%, rgba(226, 204, 145, 0.3));
+      z-index: 1;
+      pointer-events: none;
+    }
+
+    .np-video-title-mask {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 78%;
+      height: 46px;
+      background: linear-gradient(to bottom, rgba(214, 188, 124, 0.92), rgba(214, 188, 124, 0.22));
+      z-index: 2;
+      pointer-events: none;
+    }
+
+    .np-video-brand-mask {
+      position: absolute;
+      right: 0;
+      bottom: 0;
+      width: 92px;
+      height: 30px;
+      background: rgba(214, 188, 124, 0.9);
+      border-top-left-radius: 10px;
+      z-index: 2;
+      pointer-events: none;
+    }
+
+    .np-video-frame--active::before,
+    .np-video-frame--active .np-video-title-mask,
+    .np-video-frame--active .np-video-brand-mask {
+      display: none;
+    }
+
+    .np-video-frame--active iframe {
+      filter: none;
     }
 
     .np-video-unmute {
@@ -184,26 +226,32 @@ A life in phases — each one a chapter.
       font-size: 0.8rem;
       line-height: 1;
       cursor: pointer;
-      z-index: 2;
+      z-index: 3;
     }
   </style>
 
   <div class="np-video-strip">
     <div class="np-video-card np-video-card--wide">
       <div class="np-video-frame np-video-frame--wide">
-        <iframe data-video-id="yo-239-EMB8" data-start="93" src="https://www.youtube-nocookie.com/embed/yo-239-EMB8?autoplay=1&mute=1&controls=0&modestbranding=1&playsinline=1&rel=0&loop=1&playlist=yo-239-EMB8&start=93" title="DeyWeaver clip 1" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        <iframe data-video-id="yo-239-EMB8" data-start="93" src="https://www.youtube-nocookie.com/embed/yo-239-EMB8?autoplay=1&mute=1&controls=0&modestbranding=1&iv_load_policy=3&cc_load_policy=0&disablekb=1&fs=0&playsinline=1&rel=0&loop=1&playlist=yo-239-EMB8&start=93" title="DeyWeaver clip 1" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        <span class="np-video-title-mask" aria-hidden="true"></span>
+        <span class="np-video-brand-mask" aria-hidden="true"></span>
         <button class="np-video-unmute" type="button">Tap for sound</button>
       </div>
     </div>
     <div class="np-video-card np-video-card--wide">
       <div class="np-video-frame np-video-frame--wide">
-        <iframe data-video-id="LOORrCxwtDA" src="https://www.youtube-nocookie.com/embed/LOORrCxwtDA?autoplay=1&mute=1&controls=0&modestbranding=1&playsinline=1&rel=0&loop=1&playlist=LOORrCxwtDA" title="DeyWeaver clip 2" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        <iframe data-video-id="LOORrCxwtDA" src="https://www.youtube-nocookie.com/embed/LOORrCxwtDA?autoplay=1&mute=1&controls=0&modestbranding=1&iv_load_policy=3&cc_load_policy=0&disablekb=1&fs=0&playsinline=1&rel=0&loop=1&playlist=LOORrCxwtDA" title="DeyWeaver clip 2" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        <span class="np-video-title-mask" aria-hidden="true"></span>
+        <span class="np-video-brand-mask" aria-hidden="true"></span>
         <button class="np-video-unmute" type="button">Tap for sound</button>
       </div>
     </div>
     <div class="np-video-card np-video-card--reel">
       <div class="np-video-frame np-video-frame--reel">
-        <iframe data-video-id="v_mf1m7HDrQ" src="https://www.youtube-nocookie.com/embed/v_mf1m7HDrQ?autoplay=1&mute=1&controls=0&modestbranding=1&playsinline=1&rel=0&loop=1&playlist=v_mf1m7HDrQ" title="DeyWeaver clip 3" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        <iframe data-video-id="v_mf1m7HDrQ" src="https://www.youtube-nocookie.com/embed/v_mf1m7HDrQ?autoplay=1&mute=1&controls=0&modestbranding=1&iv_load_policy=3&cc_load_policy=0&disablekb=1&fs=0&playsinline=1&rel=0&loop=1&playlist=v_mf1m7HDrQ" title="DeyWeaver clip 3" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        <span class="np-video-title-mask" aria-hidden="true"></span>
+        <span class="np-video-brand-mask" aria-hidden="true"></span>
         <button class="np-video-unmute" type="button">Tap for sound</button>
       </div>
     </div>
@@ -221,7 +269,8 @@ A life in phases — each one a chapter.
           var id = iframe.getAttribute('data-video-id');
           var start = iframe.getAttribute('data-start');
           var startParam = start ? '&start=' + encodeURIComponent(start) : '';
-          iframe.src = 'https://www.youtube-nocookie.com/embed/' + id + '?autoplay=1&mute=0&controls=1&modestbranding=1&playsinline=1&rel=0' + startParam;
+          iframe.src = 'https://www.youtube-nocookie.com/embed/' + id + '?autoplay=1&mute=0&controls=1&modestbranding=1&iv_load_policy=3&playsinline=1&rel=0' + startParam;
+          frame.classList.add('np-video-frame--active');
           btn.remove();
         });
       });
