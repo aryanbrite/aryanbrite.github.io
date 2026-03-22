@@ -99,23 +99,99 @@ A life in phases — each one a chapter.
 
 <div style="margin: 14px 0 28px 0;">
   <p style="margin: 0 0 10px 0; font-size: 0.95rem; opacity: 0.85;"><strong>Nonprofit work clips</strong> (swipe or scroll)</p>
-  <div style="display: flex; gap: 14px; overflow-x: auto; padding: 6px 2px 10px 2px; scroll-snap-type: x mandatory; scrollbar-width: thin;">
-    <div style="min-width: min(88vw, 320px); max-width: 320px; background: #101010; border-radius: 12px; border: 1px solid #2a2a2a; padding: 8px; box-shadow: 0 8px 24px rgba(0,0,0,0.22); scroll-snap-align: start;">
-      <div style="position: relative; width: 100%; padding-top: 56.25%; border-radius: 8px; overflow: hidden;">
-        <iframe src="https://www.youtube-nocookie.com/embed/yo-239-EMB8" title="DeyWeaver clip 1" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="position: absolute; inset: 0; width: 100%; height: 100%; border: 0;"></iframe>
+  <style>
+    .np-video-strip {
+      display: flex;
+      gap: 14px;
+      overflow-x: auto;
+      padding: 6px 2px 10px 2px;
+      scroll-snap-type: x mandatory;
+      scrollbar-width: thin;
+    }
+
+    .np-video-card {
+      min-width: min(84vw, 240px);
+      width: min(84vw, 240px);
+      background: #101010;
+      border-radius: 12px;
+      border: 1px solid #2a2a2a;
+      padding: 8px;
+      box-shadow: 0 8px 24px rgba(0, 0, 0, 0.22);
+      scroll-snap-align: start;
+      flex: 0 0 auto;
+    }
+
+    .np-video-frame {
+      position: relative;
+      width: 100%;
+      aspect-ratio: 9 / 16;
+      border-radius: 8px;
+      overflow: hidden;
+      background: #000;
+    }
+
+    .np-video-frame iframe {
+      position: absolute;
+      inset: 0;
+      width: 100%;
+      height: 100%;
+      border: 0;
+    }
+
+    .np-video-unmute {
+      position: absolute;
+      left: 50%;
+      bottom: 12px;
+      transform: translateX(-50%);
+      background: rgba(0, 0, 0, 0.72);
+      color: #fff;
+      border: 1px solid rgba(255, 255, 255, 0.3);
+      border-radius: 999px;
+      padding: 6px 12px;
+      font-size: 0.8rem;
+      line-height: 1;
+      cursor: pointer;
+      z-index: 2;
+    }
+  </style>
+
+  <div class="np-video-strip">
+    <div class="np-video-card">
+      <div class="np-video-frame">
+        <iframe data-video-id="yo-239-EMB8" src="https://www.youtube-nocookie.com/embed/yo-239-EMB8?autoplay=1&mute=1&controls=0&modestbranding=1&playsinline=1&rel=0&loop=1&playlist=yo-239-EMB8" title="DeyWeaver clip 1" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        <button class="np-video-unmute" type="button">Tap for sound</button>
       </div>
     </div>
-    <div style="min-width: min(88vw, 320px); max-width: 320px; background: #101010; border-radius: 12px; border: 1px solid #2a2a2a; padding: 8px; box-shadow: 0 8px 24px rgba(0,0,0,0.22); scroll-snap-align: start;">
-      <div style="position: relative; width: 100%; padding-top: 56.25%; border-radius: 8px; overflow: hidden;">
-        <iframe src="https://www.youtube-nocookie.com/embed/LOORrCxwtDA" title="DeyWeaver clip 2" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="position: absolute; inset: 0; width: 100%; height: 100%; border: 0;"></iframe>
+    <div class="np-video-card">
+      <div class="np-video-frame">
+        <iframe data-video-id="LOORrCxwtDA" src="https://www.youtube-nocookie.com/embed/LOORrCxwtDA?autoplay=1&mute=1&controls=0&modestbranding=1&playsinline=1&rel=0&loop=1&playlist=LOORrCxwtDA" title="DeyWeaver clip 2" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        <button class="np-video-unmute" type="button">Tap for sound</button>
       </div>
     </div>
-    <div style="min-width: min(88vw, 320px); max-width: 320px; background: #101010; border-radius: 12px; border: 1px solid #2a2a2a; padding: 8px; box-shadow: 0 8px 24px rgba(0,0,0,0.22); scroll-snap-align: start;">
-      <div style="position: relative; width: 100%; padding-top: 56.25%; border-radius: 8px; overflow: hidden;">
-        <iframe src="https://www.youtube-nocookie.com/embed/v_mf1m7HDrQ" title="DeyWeaver clip 3" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="position: absolute; inset: 0; width: 100%; height: 100%; border: 0;"></iframe>
+    <div class="np-video-card">
+      <div class="np-video-frame">
+        <iframe data-video-id="v_mf1m7HDrQ" src="https://www.youtube-nocookie.com/embed/v_mf1m7HDrQ?autoplay=1&mute=1&controls=0&modestbranding=1&playsinline=1&rel=0&loop=1&playlist=v_mf1m7HDrQ" title="DeyWeaver clip 3" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        <button class="np-video-unmute" type="button">Tap for sound</button>
       </div>
     </div>
   </div>
+
+  <script>
+    (function() {
+      var buttons = document.querySelectorAll('.np-video-unmute');
+      buttons.forEach(function(btn) {
+        btn.addEventListener('click', function() {
+          var frame = btn.parentElement;
+          var iframe = frame.querySelector('iframe[data-video-id]');
+          if (!iframe) return;
+
+          var id = iframe.getAttribute('data-video-id');
+          iframe.src = 'https://www.youtube-nocookie.com/embed/' + id + '?autoplay=1&mute=0&controls=1&modestbranding=1&playsinline=1&rel=0';
+          btn.remove();
+        });
+      });
+    })();
+  </script>
 </div>
 
 - I applied to become the Lead Organizer for [*Campfire Delhi*](https://campfire.hackclub.com/delhi) at [*Hack Club*](https://hackclub.com) — and I got selected.  
