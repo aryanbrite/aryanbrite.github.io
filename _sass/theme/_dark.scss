@@ -3,25 +3,25 @@
    ========================================================================== */
 
 /* Color codes used for the theme */
-$gray                       : #7a8288;
+$gray                       : #8c7f70;
 $dark-gray                  : mix(#000, $gray, 40%);
 $darker-gray                : mix(#000, $gray, 60%);
-$light-gray                 : mix(#fff, $gray, 50%);
+$light-gray                 : mix(#fff, $gray, 30%);
 
-$background                 : #474747;
-$background-light           : mix(#fff, $background, 80%);
-$background-lighter         : mix(#fff, $background, 90%);
-$text                       : #ffffff;
-$link                       : #0ea1c5;
+$background                 : #fdf6e3; /* vintage yellowish light background */
+$background-light           : #eee8d5; /* slightly darker for contrast layers */
+$background-lighter         : #e3ddcb; /* even darker for headers */
+$text                       : #4a4138; /* warm dark brown for text */
+$link                       : #b5533c; /* muted brick red for links */
 $link-dark                  : mix(#000, $link, 25%);
-$link-light                 : mix(#fff, $link, 25%);
+$link-light                 : mix(#fff, $link, 40%);
 
 /* Color codes used for the site */
-$danger-color               : #ee5f5b;
-$info-color                 : #2f7f93;
-$notice-color               : #7a8288;
-$success-color              : #62c462;
-$warning-color              : #f89406;
+$danger-color               : #cb4b16;
+$info-color                 : #2aa198;
+$notice-color               : #8c7f70;
+$success-color              : #859900;
+$warning-color              : #b58900;
 
 /* Other basic settings for the template */
 $border-radius              : 4px;
@@ -40,7 +40,7 @@ html[data-theme="dark"] {
     --global-footer-bg-color            : #{$background};
     --global-border-color               : #{$light-gray};
     --global-dark-border-color          : #{$background-light};
-    --global-code-background-color      : #fafafa;
+    --global-code-background-color      : #eee8d5;
     --global-code-text-color            : #{$darker-gray};
     --global-fig-caption-color          : #{$light-gray};
     --global-link-color                 : #{$link};
