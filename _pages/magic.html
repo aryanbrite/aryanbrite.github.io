@@ -58,48 +58,58 @@ body, html, .page, .page__inner-wrap {
 </div>
 
 <script>
-const steps = [
-  { text: "Hi reviewer !!", btn: "Hii" },
-  { text: "How is the weather in Vermont today?<br><br>Did you realize that you've been staring at the screen for idk <i>howww</i> long?", btn: "oh ya uff" },
-  { text: "First of all, take a break cause you have reviewed a lot of applications until now.", btn: "UMMmm" },
-  { text: "This is a reminder to take a 10 min break and drink water, coffee, or maybe go on a walk.", btn: "OKAYY !!" },
-  { text: "Reviewing applications is tough—especially when the pool is so competitive as well as filled with a lot of slop.<br><br>I hope this break will help you give the same effort as you were giving to the applications in the beginning. Have a good day!<br><br><i>This is a special version of my site just for you cause you are so busy. I'll redirect you straight to my timeline, but you can scroll up whenever you want to know more about my personality.</i>", btn: "okayyy" }
-];
+(function() {
+  const steps = [
+    { text: "Hi reviewer !!", btn: "Hii" },
+    { text: "How is the weather in Vermont today?<br><br>Did you realize that you've been staring at the screen for idk <i>howww</i> long?", btn: "oh ya uff" },
+    { text: "First of all, take a break cause you have reviewed a lot of applications until now.", btn: "UMMmm" },
+    { text: "This is a reminder to take a 10 min break and drink water, coffee, or maybe go on a walk.", btn: "OKAYY !!" },
+    { text: "Reviewing applications is tough—especially when the pool is so competitive as well as filled with a lot of slop.<br><br>I hope this break will help you give the same effort as you were giving to the applications in the beginning. Have a good day!<br><br><i>This is a special version of my site just for you cause you are so busy. I'll redirect you straight to my timeline, but you can scroll up whenever you want to know more about my personality.</i>", btn: "okayyy" }
+  ];
 
-document.addEventListener("DOMContentLoaded", function() {
-  var currentStep = 0;
-  var btnEl = document.getElementById('magicBtn');
-  var textEl = document.getElementById('magicText');
+  let currentStep = 0;
 
-  if (btnEl) {
-    btnEl.addEventListener('click', function(e) {
-      e.preventDefault(); // Prevent accidental form submission
-      currentStep++;
+  function initMagic() {
+    var btnEl = document.getElementById('magicBtn');
+    var textEl = document.getElementById('magicText');
 
-      if (currentStep >= steps.length) {
-        window.location.href = "/#my-timeline";
-        return;
-      }
+    if (btnEl && textEl) {
+      btnEl.addEventListener('click', function(e) {
+        e.preventDefault(); 
+        currentStep++;
 
-      // Fade out explicitly
-      textEl.style.opacity = '0';
-      textEl.style.transform = 'translateY(15px)';
-      btnEl.style.opacity = '0';
-      btnEl.style.transform = 'translateY(15px)';
-      btnEl.style.pointerEvents = 'none';
+        if (currentStep >= steps.length) {
+          window.location.href = "/#my-timeline";
+          return;
+        }
 
-      // Wait for fade out, update text, fade in
-      setTimeout(function() {
-        textEl.innerHTML = steps[currentStep].text;
-        btnEl.innerHTML = steps[currentStep].btn;
-        
-        textEl.style.opacity = '1';
-        textEl.style.transform = 'translateY(0)';
-        btnEl.style.opacity = '1';
-        btnEl.style.transform = 'translateY(0)';
-        btnEl.style.pointerEvents = 'auto';
-      }, 400); // 400ms matches the CSS transition time
-    });
+        // Fade out explicitly
+        textEl.style.opacity = '0';
+        textEl.style.transform = 'translateY(15px)';
+        btnEl.style.opacity = '0';
+        btnEl.style.transform = 'translateY(15px)';
+        btnEl.style.pointerEvents = 'none';
+
+        // Wait for fade out, update text, fade in
+        setTimeout(function() {
+          textEl.innerHTML = steps[currentStep].text;
+          btnEl.innerHTML = steps[currentStep].btn;
+          
+          textEl.style.opacity = '1';
+          textEl.style.transform = 'translateY(0)';
+          btnEl.style.opacity = '1';
+          btnEl.style.transform = 'translateY(0)';
+          btnEl.style.pointerEvents = 'auto';
+        }, 400); // 400ms matches the CSS transition time
+      });
+    }
   }
-});
+
+  // Attach safely depending on whether the page has already finished loading
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", initMagic);
+  } else {
+    initMagic();
+  }
+})();
 </script>
