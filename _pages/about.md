@@ -168,6 +168,7 @@ A life in phases — each one a chapter.
       width: 100%;
       height: 100%;
       border: 0;
+      pointer-events: none;
     }
 
   </style>
