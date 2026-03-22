@@ -231,7 +231,7 @@ A life in phases — each one a chapter.
 
 <div style="margin: 8px 0 4px 1.6em; display: flex; gap: 10px; overflow-x: auto; padding: 2px 2px 6px 2px;">
   <a href="/files/music1.png" target="_blank" rel="noopener noreferrer" style="display: block; flex: 0 0 auto;">
-    <img src="/files/music1.png" alt="Music achievement snapshot" loading="lazy" style="display: block; width: 300px; height: 140px; object-fit: contain; background: rgba(0,0,0,0.04); border-radius: 10px; border: 1px solid rgba(0,0,0,0.16);" />
+    <img src="/files/music1.png" alt="Music achievement snapshot" loading="lazy" style="display: block; width: 340px; height: 140px; object-fit: contain; background: rgba(0,0,0,0.04); border-radius: 10px; border: 1px solid rgba(0,0,0,0.16);" />
   </a>
 </div>
 
