@@ -34,9 +34,16 @@ window.magicNextStep=function(e) {
         overlay.style.display = 'none';
         document.body.style.overflow = '';
         
-        var timeline = document.getElementById('phase-1--high-school-20242026') || document.getElementById('my-timeline');
+        var timeline = document.getElementById('my-timeline');
+        if (!timeline) {
+          timeline = Array.from(document.querySelectorAll('h2, h3')).find(function(el) {
+            return el.textContent && el.textContent.trim().toLowerCase() === 'my timeline';
+          });
+        }
+
         if (timeline) {
-          timeline.scrollIntoView({ behavior: 'smooth', block: 'start' });
+          var y = timeline.getBoundingClientRect().top + window.pageYOffset - 85;
+          window.scrollTo({ top: y, behavior: 'smooth' });
         }
         
         window.history.replaceState(null, null, window.location.pathname);
