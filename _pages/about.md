@@ -142,6 +142,18 @@ A life in phases — each one a chapter.
 
 - I stumbled into open-source like one discovers a hidden alley in a busy city — by accident, but never by mistake. I launched my first public projects, contributed on [GitHub](https://github.com/aryan6673), and started leaving footprints in a digital world where age, location, and labels didn’t matter.  
 
+<div style="margin: 8px 0 16px 1.6em; display: flex; gap: 10px; overflow-x: auto; padding: 2px 2px 6px 2px;">
+  <a href="/files/git1.png" target="_blank" rel="noopener noreferrer" style="display: block; flex: 0 0 auto;">
+    <img src="/files/git1.png" alt="GitHub activity image 1" loading="lazy" style="display: block; width: 180px; height: 120px; object-fit: cover; border-radius: 10px; border: 1px solid rgba(0,0,0,0.16);" />
+  </a>
+  <a href="/files/git2.png" target="_blank" rel="noopener noreferrer" style="display: block; flex: 0 0 auto;">
+    <img src="/files/git2.png" alt="GitHub activity image 2" loading="lazy" style="display: block; width: 180px; height: 120px; object-fit: cover; border-radius: 10px; border: 1px solid rgba(0,0,0,0.16);" />
+  </a>
+  <a href="/files/git3.png" target="_blank" rel="noopener noreferrer" style="display: block; flex: 0 0 auto;">
+    <img src="/files/git3.png" alt="GitHub activity image 3" loading="lazy" style="display: block; width: 180px; height: 120px; object-fit: cover; border-radius: 10px; border: 1px solid rgba(0,0,0,0.16);" />
+  </a>
+</div>
+
 - Class 11 arrived with its own storm. My grades dipped to a 2.6/4.0 CGPA — but strangely, I wasn’t shaken. That year taught me to uncouple academic metrics from personal growth. Not everything that counts can be counted.  
 
 - I am from an ordinary public school in India, where exposure to STEM or engineering wasn’t strong, and it wasn’t really encouraged either. I noticed that many juniors only saw Computer Science as making websites or apps. That gap led me to write [*Zero to Job*](https://www.amazon.com/Zero-Job-job-without-waiting-college-ebook/dp/B0D57HYFZ5), a guide to help students explore the broader landscape of IT careers. It started as a monetization idea but became a near-free resource focused on impact.  
