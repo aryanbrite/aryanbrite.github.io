@@ -127,11 +127,11 @@ A life in phases — each one a chapter.
     }
 
     .np-video-card {
-      background: #d9c99a;
+      background: #fdf6e3;
       border-radius: 12px;
-      border: 1px solid #b49f6b;
+      border: 1px solid #dccca6;
       padding: 8px;
-      box-shadow: 0 8px 20px rgba(102, 80, 34, 0.22);
+      box-shadow: 0 8px 20px rgba(116, 95, 54, 0.18);
       scroll-snap-align: start;
       flex: 0 0 auto;
     }
@@ -151,7 +151,7 @@ A life in phases — each one a chapter.
       width: 100%;
       border-radius: 8px;
       overflow: hidden;
-      background: #d4be85;
+      background: #fdf6e3;
     }
 
     .np-video-frame--wide {
@@ -168,16 +168,6 @@ A life in phases — each one a chapter.
       width: 100%;
       height: 100%;
       border: 0;
-      filter: sepia(0.35) saturate(0.82) contrast(0.9) brightness(0.93);
-    }
-
-    .np-video-frame::before {
-      content: "";
-      position: absolute;
-      inset: 0;
-      background: linear-gradient(to bottom, rgba(226, 204, 145, 0.42), rgba(226, 204, 145, 0.08) 35%, rgba(226, 204, 145, 0.3));
-      z-index: 1;
-      pointer-events: none;
     }
 
     .np-video-title-mask {
@@ -185,8 +175,8 @@ A life in phases — each one a chapter.
       top: 0;
       left: 0;
       width: 78%;
-      height: 46px;
-      background: linear-gradient(to bottom, rgba(214, 188, 124, 0.92), rgba(214, 188, 124, 0.22));
+      height: 42px;
+      background: rgba(253, 246, 227, 0.94);
       z-index: 2;
       pointer-events: none;
     }
@@ -197,20 +187,15 @@ A life in phases — each one a chapter.
       bottom: 0;
       width: 92px;
       height: 30px;
-      background: rgba(214, 188, 124, 0.9);
+      background: rgba(253, 246, 227, 0.94);
       border-top-left-radius: 10px;
       z-index: 2;
       pointer-events: none;
     }
 
-    .np-video-frame--active::before,
     .np-video-frame--active .np-video-title-mask,
     .np-video-frame--active .np-video-brand-mask {
       display: none;
-    }
-
-    .np-video-frame--active iframe {
-      filter: none;
     }
 
     .np-video-unmute {
@@ -218,9 +203,9 @@ A life in phases — each one a chapter.
       left: 50%;
       bottom: 12px;
       transform: translateX(-50%);
-      background: rgba(0, 0, 0, 0.72);
+      background: rgba(181, 83, 60, 0.94);
       color: #fff;
-      border: 1px solid rgba(255, 255, 255, 0.3);
+      border: 1px solid rgba(255, 255, 255, 0.45);
       border-radius: 999px;
       padding: 6px 12px;
       font-size: 0.8rem;
