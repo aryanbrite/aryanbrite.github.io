@@ -73,7 +73,7 @@ Like a book on a shelf you didn’t expect to love — but did.
 
 ## My Timeline
 
-A life in phases — each one a chapter, not a checklist.
+A life in phases — each one a chapter.
 
 ### Phase 1 — High School (2024–2026)
 
