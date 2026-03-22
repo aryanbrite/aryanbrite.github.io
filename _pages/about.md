@@ -99,10 +99,10 @@ A life in phases — each one a chapter.
 
 - I applied to become the Lead Organizer for [*Campfire Delhi*](https://campfire.hackclub.com/delhi) at [*Hack Club*](https://hackclub.com) — and I got selected.  
 
-  According to my regional manager, most satellite events in Delhi had struggled — with around 23% ship rate and ~21% NPS. That showed me that strong sponsors or venues don’t guarantee a strong community. When I organized Campfire Delhi, we reached around 90% ship rate and ~75% NPS — unexpected for a 100+ participant event. People joined from across India, and even after the event, the Slack community stayed highly active. Many couldn’t move on from the experience — some even added it to their Slack profiles. The event crossed the requirements for Trusted Organizer recognition from Hack Club. In a way, it felt ironic — not much was expected, but it became one of the strongest community experiences. For me, the most important outcome wasn’t the numbers — it was building a real sense of belonging.
+  According to my regional manager, all the satellite events in Delhi were actually an absolute failure — with around 23% ship rate and ~21% NPS. That showed me that strong sponsors or venues don’t guarantee a strong community. When I organized Campfire Delhi, we reached around 90% ship rate and ~75% NPS — unexpected for a 100+ participant event. People joined from across India, and even after the event, our Slack community is still the most active Campfire Slack channel. Many couldn’t move on from the experience — some even added it to their Slack profiles. The event crossed the requirements for Trusted Organizer recognition from Hack Club. In a way, it felt ironic — not much was expected, but it became one of the strongest community experiences. For me, the most important outcome wasn’t the numbers — it was building a real sense of belonging.
 
 <p align="right"><em>Last updated: March 22, 2026</em></p>
 
 ### Phase 2 — Gap Year
 
-- Trusting the gut again. I stumbled onto the [*Hack Club Gap Year*](https://manifesto.hackclub.com/) program. I realized I carry that exact same quiet, relentless builder energy they're looking for. So I applied.
+- Trusting the gut again. I stumbled onto the [*Hack Club Gap Year*](https://manifesto.hackclub.com/) program. I realized I carry that exact same quiet, relentless builder energy they're looking for. So I applied
