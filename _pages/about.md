@@ -95,7 +95,28 @@ A life in phases — each one a chapter.
 
 - As a Program Manager at [*YIAW*](https://yiaw.org), I designed programs for teenagers to connect with STEM. I worked on complete timelines — how the program would run, how management would function, and how to ensure the community stayed strong. I documented everything, created structured plans, and presented ideas and reports to my executives. After completing my journey, I was awarded the Best Volunteer Award. I still remember my lead saying, “Aryan, how are you always able to get your work done on time?” — that moment stayed with me. More than anything, I earned trust there.  
 
-- I started the [*DeyWeaver Foundation*](https://npo.deyweaver.live) as a fiscally sponsored project under [*IFERS*](https://ifers.org). The idea was to build something similar in spirit to Mozilla — products made for people, mostly free, with a strong sense of community like [*Hack Club*](https://hackclub.com). The goal was to create AI SaaS tools that are accessible, because I noticed how expensive AI infrastructure can be and how that limits access for most people.  
+- I started the [*DeyWeaver Foundation*](https://npo.deyweaver.live) as a fiscally sponsored project under [*IFERS*](https://ifers.org). It is still small right now and mostly my way of learning open-source management in public. Building it taught me a lot about nonprofit operations, especially IRS compliance rules, documentation standards, and how governance decisions affect real projects.  
+
+<div style="margin: 14px 0 28px 0;">
+  <p style="margin: 0 0 10px 0; font-size: 0.95rem; opacity: 0.85;"><strong>Nonprofit work clips</strong> (swipe or scroll)</p>
+  <div style="display: flex; gap: 14px; overflow-x: auto; padding: 6px 2px 10px 2px; scroll-snap-type: x mandatory; scrollbar-width: thin;">
+    <div style="min-width: min(88vw, 320px); max-width: 320px; background: #101010; border-radius: 12px; border: 1px solid #2a2a2a; padding: 8px; box-shadow: 0 8px 24px rgba(0,0,0,0.22); scroll-snap-align: start;">
+      <div style="position: relative; width: 100%; padding-top: 56.25%; border-radius: 8px; overflow: hidden;">
+        <iframe src="https://www.youtube-nocookie.com/embed/yo-239-EMB8" title="DeyWeaver clip 1" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="position: absolute; inset: 0; width: 100%; height: 100%; border: 0;"></iframe>
+      </div>
+    </div>
+    <div style="min-width: min(88vw, 320px); max-width: 320px; background: #101010; border-radius: 12px; border: 1px solid #2a2a2a; padding: 8px; box-shadow: 0 8px 24px rgba(0,0,0,0.22); scroll-snap-align: start;">
+      <div style="position: relative; width: 100%; padding-top: 56.25%; border-radius: 8px; overflow: hidden;">
+        <iframe src="https://www.youtube-nocookie.com/embed/LOORrCxwtDA" title="DeyWeaver clip 2" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="position: absolute; inset: 0; width: 100%; height: 100%; border: 0;"></iframe>
+      </div>
+    </div>
+    <div style="min-width: min(88vw, 320px); max-width: 320px; background: #101010; border-radius: 12px; border: 1px solid #2a2a2a; padding: 8px; box-shadow: 0 8px 24px rgba(0,0,0,0.22); scroll-snap-align: start;">
+      <div style="position: relative; width: 100%; padding-top: 56.25%; border-radius: 8px; overflow: hidden;">
+        <iframe src="https://www.youtube-nocookie.com/embed/v_mf1m7HDrQ" title="DeyWeaver clip 3" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="position: absolute; inset: 0; width: 100%; height: 100%; border: 0;"></iframe>
+      </div>
+    </div>
+  </div>
+</div>
 
 - I applied to become the Lead Organizer for [*Campfire Delhi*](https://campfire.hackclub.com/delhi) at [*Hack Club*](https://hackclub.com) — and I got selected.  
 
