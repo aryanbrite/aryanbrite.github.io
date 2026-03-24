@@ -256,7 +256,16 @@ A life in phases — each one a chapter.
   </a>
 </div>
 
-- As a Program Manager at [*YIAW*](https://yiaw.org), a nonprofit organization, I designed programs for teenagers to connect with STEM. I worked on complete timelines — how the program would run, how management would function, and how to ensure the community stayed strong. I also had to make sure teens did not feel burnout, that the environment stayed collaborative, and that the overall flow of the program remained simple and easy to follow. I documented everything, created structured plans, and presented ideas and reports to my executives. After completing my journey, I was awarded the Best Volunteer Award. I still remember my lead saying, “Aryan, how are you always able to get your work done on time?” — that moment stayed with me. I also earned 387 PVSA certified volunteering hours. More than anything, I earned trust there.  
+- As a Program Manager at [*YIAW*](https://www.linkedin.com/company/youth-ideas-at-work/), a nonprofit organization, I designed programs for teenagers to connect with STEM. I worked on complete timelines — how the program would run, how management would function, and how to ensure the community stayed strong. I also had to make sure teens did not feel burnout, that the environment stayed collaborative, and that the overall flow of the program remained simple and easy to follow. I documented everything, created structured plans, and presented ideas and reports to my executives. After completing my journey, I was awarded the Best Volunteer Award. I still remember my lead saying, “Aryan, how are you always able to get your work done on time?” — that moment stayed with me. I also earned 387 PVSA certified volunteering hours. More than anything, I earned trust there.  
+
+<div style="margin: 8px 0 16px 1.6em; display: flex; gap: 10px; overflow-x: auto; padding: 2px 2px 6px 2px;">
+  <a href="/files/YIAW1.jpeg" target="_blank" rel="noopener noreferrer" style="display: block; flex: 0 0 auto;">
+    <img src="/files/YIAW1.jpeg" alt="YIAW activity image 1" loading="lazy" style="display: block; width: 180px; height: 120px; object-fit: cover; border-radius: 10px; border: 1px solid rgba(0,0,0,0.16);" />
+  </a>
+  <a href="/files/YIAW2.jpeg" target="_blank" rel="noopener noreferrer" style="display: block; flex: 0 0 auto;">
+    <img src="/files/YIAW2.jpeg" alt="YIAW activity image 2" loading="lazy" style="display: block; width: 180px; height: 120px; object-fit: cover; border-radius: 10px; border: 1px solid rgba(0,0,0,0.16);" />
+  </a>
+</div>
 
 - I started the [*DeyWeaver Foundation*](https://npo.deyweaver.live) as a fiscally sponsored project under [*IFERS*](https://ifers.org). It is still small right now and mostly my way of learning open-source management in public. Building it taught me a lot about nonprofit operations, especially IRS compliance rules, documentation standards, and how governance decisions affect real projects.  
 
