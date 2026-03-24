@@ -267,7 +267,7 @@ A life in phases — each one a chapter.
   </a>
 </div>
 
-- I started the [*DeyWeaver Foundation*](https://npo.deyweaver.live) as a fiscally sponsored project under [*IFERS*](https://ifers.org). It is still small right now and mostly my way of learning open-source management in public. Building it taught me a lot about nonprofit operations, especially IRS compliance rules, documentation standards, and how governance decisions affect real projects.  
+- I started [*Deyweaver*](https://github.com/Deyweaver/DeyWeaver) as a community open-source project with one simple mission: keep it free, always, even if cloud bills hate us. Later it became a nonprofit project fiscally sponsored by [*IFERS*](https://ifers.org). The project is still small, but I learned a lot of open-source practice through it - proper workflows, CI/CD, GitHub Actions, and many GitHub patterns that are not even common in bigger repos. Honestly, I did all that not because the project got huge or because I was too busy, but because it was actually fun. While building Deyweaver, I lowkey acted like I was already some famous open-source dev, and weirdly, that mindset helped me build things the right way.  
 
 <div style="margin: 14px 0 28px 1.6em;">
   <style>
