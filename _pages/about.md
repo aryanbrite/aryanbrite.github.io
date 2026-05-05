@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-<div style="float: right; max-width: 350px; margin: 0 0 20px 30px; padding: 40px 20px; text-align: center; font-family: 'Inter', 'Helvetica Neue', Helvetica, sans-serif; color: #4a4138; background: #fdf6e3; border: 1px solid #dccca6; outline: 1px solid #dccca6; outline-offset: -6px; border-radius: 2px; box-shadow: 0 10px 25px rgba(0,0,0,0.06); user-select: none; -webkit-user-select: none; -ms-user-select: none; -moz-user-select: none;">
-  <p style="margin: 0; font-size: 1.1rem; font-weight: 500; line-height: 1.6; letter-spacing: 0.5px; text-transform: uppercase;">
+<div class="quote-box">
+  <p>
     "Loyalty is a two-way street.<br>
     If I am asking for it from you,<br>
     then you are getting it from me."
