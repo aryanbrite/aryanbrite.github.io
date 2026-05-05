@@ -83,3 +83,25 @@ $sidebar-screen-min-width   : 1024px;
     letter-spacing: 0.5px;
     text-transform: uppercase;
 }
+
+/* On large screens, move the quote into the right-margin (suffix) area.
+   17.5% is an approximation of the suffix(2 of 12) area as a fraction of .page's
+   own width, keeping the box fully inside the right padding without overlapping content. */
+@media (min-width: 925px) {
+    .quote-box {
+        position: absolute;
+        right: 0;
+        top: 0;
+        float: none;
+        margin: 0;
+        max-width: none;
+        width: 17.5%;
+        padding: 1.5em 0.8em;
+        outline-offset: -5px;
+    }
+
+    .quote-box p {
+        font-size: 0.72rem;
+        letter-spacing: 0.3px;
+    }
+}
