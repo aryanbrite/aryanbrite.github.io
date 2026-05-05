@@ -6,7 +6,9 @@ $(document).ready(function () {
   // detect OS/browser preference
   const browserPref = window.matchMedia('(prefers-color-scheme: dark)').matches
     ? 'dark'
-    : 'light';
+    : window.matchMedia('(prefers-color-scheme: light)').matches
+      ? 'light'
+      : 'dark'; // default to dark when no OS preference is detected
 
   // Set the theme on page load or when explicitly called
   var setTheme = function (theme) {
