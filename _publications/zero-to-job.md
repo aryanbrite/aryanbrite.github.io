@@ -27,7 +27,7 @@ No flex. Just facts.
 This is the cover of my very first book.  
 Seeing your idea turn into an actual printed cover hits different.
 
-![Zero To Job Book Cover](https://raw.githubusercontent.com/aryan6673/aryan6673.github.io/refs/heads/master/images/zero%20to%20Job%20-%20final.png)
+![Zero To Job Book Cover](https://raw.githubusercontent.com/aryanbrite/aryanbrite.github.io/refs/heads/master/images/zero%20to%20Job%20-%20final.png)
 
 ---
 
@@ -82,7 +82,7 @@ Just practical direction.
 Seeing your book live on Amazon feels unreal.  
 From an idea in your head to an actual product page.
 
-![Zero To Job on Amazon](https://raw.githubusercontent.com/aryan6673/aryan6673.github.io/refs/heads/master/images/b.png)
+![Zero To Job on Amazon](https://raw.githubusercontent.com/aryanbrite/aryanbrite.github.io/refs/heads/master/images/b.png)
 
 ---
 
@@ -111,7 +111,7 @@ Finally, it worked out.
 This is my author page where the book officially lives.  
 Feels weird and cool at the same time.
 
-![Author Page on Amazon](https://raw.githubusercontent.com/aryan6673/aryan6673.github.io/refs/heads/master/images/4e06d972-37f7-4e1b-a699-8b4b3132f86d.jpg)
+![Author Page on Amazon](https://raw.githubusercontent.com/aryanbrite/aryanbrite.github.io/refs/heads/master/images/4e06d972-37f7-4e1b-a699-8b4b3132f86d.jpg)
 
 ---
 
@@ -134,7 +134,7 @@ Most teens don’t even know fields like **Quantum Computing** exist, let alone 
 
 This page is from the book where I talk about quantum computing as a possible CS path.
 
-![Quantum Computing Page from Zero To Job](https://raw.githubusercontent.com/aryan6673/aryan6673.github.io/refs/heads/master/images/2f0abd34-9f11-41dd-8d12-eed0a0daa884.jpg)
+![Quantum Computing Page from Zero To Job](https://raw.githubusercontent.com/aryanbrite/aryanbrite.github.io/refs/heads/master/images/2f0abd34-9f11-41dd-8d12-eed0a0daa884.jpg)
 
 ---
 
@@ -143,7 +143,7 @@ This page is from the book where I talk about quantum computing as a possible CS
 This is the moment when it actually felt *real*.  
 Not a PDF. Not a draft. A real book.
 
-![Zero To Job Physical Book](https://raw.githubusercontent.com/aryan6673/aryan6673.github.io/refs/heads/master/images/holding%20my%20book.jpg)
+![Zero To Job Physical Book](https://raw.githubusercontent.com/aryanbrite/aryanbrite.github.io/refs/heads/master/images/holding%20my%20book.jpg)
 
 ---
 
