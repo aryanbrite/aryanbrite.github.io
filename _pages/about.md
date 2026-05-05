@@ -15,15 +15,15 @@ redirect_from:
   </p>
 </div>
 
-And yet, here you are — reading words I wrote in silence, probably without ever meeting me. That, in itself, is poetic. I didn’t build this page to impress. I built it to express — not who I am in bullet points, but in presence. This site isn’t a pitch deck or a personal ad. It’s a door left slightly open, for the kind of minds that like wandering into rooms uninvited.
+And yet, here you are, reading words I wrote in silence, probably without ever meeting me. That, in itself, is poetic. I didn’t build this page to impress. I built it to express, not who I am in bullet points, but in presence. This site isn’t a pitch deck or a personal ad. It’s a door left slightly open, for the kind of minds that like wandering into rooms uninvited.
 
 ---
 
 ## I Just Went With It
 
-I never waited for permission. While most people followed maps handed to them, I trusted something quieter — my own gut. That still voice inside me that whispered, *“Try it now. Build it now. Learn it now.”* Even when nothing made sense, I listened. And it led me to places no curriculum ever mentioned.
+I never waited for permission. While most people followed maps handed to them, I trusted something quieter: my own gut. That still voice inside me that whispered, *“Try it now. Build it now. Learn it now.”* Even when nothing made sense, I listened. And it led me to places no curriculum ever mentioned.
 
-I don’t think in terms of “career plans” or “exit strategies.” I think in ideas. And when one grabs me — really grabs me — I follow it. I’ve always believed that the best things come from impulse wrapped in intention. That’s how this site was born too.
+I don’t think in terms of “career plans” or “exit strategies.” I think in ideas. And when one grabs me, it really grabs me, I follow it. I’ve always believed that the best things come from impulse wrapped in intention. That’s how this site was born too.
 
 ---
 
@@ -31,9 +31,9 @@ I don’t think in terms of “career plans” or “exit strategies.” I think
 
 I wasn’t sure what to write here. So I did what I always do when I’m unsure: I stared at the blank page until it stopped staring back. Then I wrote this.
 
-I’m someone who thinks a lot — sometimes too much — about the gap between what we say and what we mean. About how often we speak in punchlines when what we really need are pauses.
+I’m someone who thinks a lot, sometimes too much, about the gap between what we say and what we mean. About how often we speak in punchlines when what we really need are pauses.
 
-Everyone’s busy performing. I get it. That’s how the game works. But what if we stopped? What if — just for a second — we stopped trying to be impressive and started being honest?
+Everyone’s busy performing. I get it. That’s how the game works. But what if we stopped? What if, just for a second, we stopped trying to be impressive and started being honest?
 
 If you’re reading this, maybe it wasn’t meant for you. But maybe that’s exactly why you should be reading it.
 
@@ -43,17 +43,17 @@ If you’re reading this, maybe it wasn’t meant for you. But maybe that’s ex
 
 I’m not interested in fast money, fast fame, or fast anything, really. I value silence. Clarity. A cup of coffee that’s not rushed. I believe there’s more power in one thoughtful project than in ten shallow ones. I’d rather go unnoticed building something real than go viral for building nothing.
 
-And I mean this sincerely — if your project is bold, thoughtful, and rooted in real change, I’ll show up. Even if you can’t pay. Because the kind of impact I want to make can’t be measured in bank transfers. Not everything I do has to be monetized. Some things just have to be meaningful.
+And I mean this sincerely, if your project is bold, thoughtful, and rooted in real change, I’ll show up. Even if you can’t pay. Because the kind of impact I want to make can’t be measured in bank transfers. Not everything I do has to be monetized. Some things just have to be meaningful.
 
 ---
 
 ## I’m not looking for everyone. Just the right few.
 
-I don’t want thousands of followers. I want quiet collaborators. People who think deeply, obsess slowly, and dream in tangents. People who look at broken systems and feel a moral itch to fix them — not because it pays well, but because it *matters.*
+I don’t want thousands of followers. I want quiet collaborators. People who think deeply, obsess slowly, and dream in tangents. People who look at broken systems and feel a moral itch to fix them, not because it pays well, but because it *matters.*
 
 If you’re someone who writes before they speak…  
 Who builds late into the night not for deadlines, but for dopamine…  
-If you’ve ever been called “too intense,” “too idealistic,” or “too curious” — then we’re already on the same frequency.
+If you’ve ever been called “too intense,” “too idealistic,” or “too curious”, then we’re already on the same frequency.
 
 ---
 
@@ -63,21 +63,21 @@ Not about what I do. That’s in the other tabs.
 But about *who* I am.  
 
 I hope this page doesn’t give you closure. I hope it gives you questions.  
-Like — *“Why does this feel familiar?”* or *“Who even writes like this anymore?”*  
+Like, *“Why does this feel familiar?”* or *“Who even writes like this anymore?”*  
 And maybe, if the curiosity lingers long enough, you’ll reach out.  
 
 Until then, this corner of the internet will wait quietly.  
-Like a book on a shelf you didn’t expect to love — but did.
+Like a book on a shelf you didn’t expect to love, but did.
 
 ---
 
 ## My Timeline
 
-A life in phases — each one a chapter.
+A life in phases, each one a chapter.
 
-### Phase 1 — High School (2024–2026)
+### Phase 1: High School (2024–2026)
 
-- Finished middle school with a 3.7/4.0 CGPA — solid, not extraordinary, but enough to feel hopeful. Entered high school and chose Science, less as a calculated decision and more as a bet on myself.  
+- Finished middle school with a 3.7/4.0 CGPA, solid, not extraordinary, but enough to feel hopeful. Entered high school and chose Science, less as a calculated decision and more as a bet on myself.  
 
 - Before high school began, I explored content writing, e-commerce, marketing, and fellowships. None worked out, but each failure taught me something, and I kept moving.  
 
@@ -192,7 +192,7 @@ A life in phases — each one a chapter.
   })();
 </script>
 
-- I stumbled into open-source like one discovers a hidden alley in a busy city — by accident, but never by mistake. I launched my first public projects, contributed on [GitHub](https://github.com/aryan6673), and started leaving footprints in a digital world where age, location, and labels didn’t matter.  
+- I stumbled into open-source like one discovers a hidden alley in a busy city, by accident, but never by mistake. I launched my first public projects, contributed on [GitHub](https://github.com/aryan6673), and started leaving footprints in a digital world where age, location, and labels didn’t matter.  
 
 <div style="margin: 8px 0 16px 1.6em; display: flex; gap: 10px; overflow-x: auto; padding: 2px 2px 6px 2px;">
   <a href="/files/git1.png" target="_blank" rel="noopener noreferrer" style="display: block; flex: 0 0 auto;">
@@ -206,7 +206,7 @@ A life in phases — each one a chapter.
   </a>
 </div>
 
-- Class 11 arrived with its own storm. My grades dipped to a 2.6/4.0 CGPA — but strangely, I wasn’t shaken. That year taught me to uncouple academic metrics from personal growth. Not everything that counts can be counted.  
+- Class 11 arrived with its own storm. My grades dipped to a 2.6/4.0 CGPA, but strangely, I wasn’t shaken. That year taught me to uncouple academic metrics from personal growth. Not everything that counts can be counted.  
 
 - I am from an ordinary public school in India, where exposure to STEM or engineering wasn’t strong, and it wasn’t really encouraged either. I noticed that many juniors only saw Computer Science as making websites or apps. That gap led me to write [*Zero to Job*](https://www.amazon.com/Zero-Job-job-without-waiting-college-ebook/dp/B0D57HYFZ5), a guide to help students explore the broader landscape of IT careers. It started as a monetization idea but became a near-free resource focused on impact.  
 
@@ -227,7 +227,7 @@ A life in phases — each one a chapter.
   </div>
 </div>
 
-- After many average experiments, one moment stood out — I posted a song casually, and it reached 2.5 million streams. I don’t take much credit for it; I think it was mostly luck. But it reminded me that outcomes aren’t always predictable.  
+- After many average experiments, one moment stood out: I posted a song casually, and it reached 2.5 million streams. I don’t take much credit for it; I think it was mostly luck. But it reminded me that outcomes aren’t always predictable.  
 
 <div style="margin: 8px 0 4px 1.6em; display: flex; gap: 10px; overflow-x: auto; padding: 2px 2px 6px 2px;">
   <a href="/files/music1.png" target="_blank" rel="noopener noreferrer" style="display: block; flex: 0 0 auto;">
@@ -256,7 +256,7 @@ A life in phases — each one a chapter.
   </a>
 </div>
 
-- As a Program Manager at [*YIAW*](https://www.linkedin.com/company/youth-ideas-at-work/), a nonprofit organization, I designed programs for teenagers to connect with STEM. I worked on complete timelines — how the program would run, how management would function, and how to ensure the community stayed strong. I also had to make sure teens did not feel burnout, that the environment stayed collaborative, and that the overall flow of the program remained simple and easy to follow. I documented everything, created structured plans, and presented ideas and reports to my executives. After completing my journey, I was awarded the Best Volunteer Award. I still remember my lead saying, “Aryan, how are you always able to get your work done on time?” — that moment stayed with me. I also earned 387 PVSA certified volunteering hours. More than anything, I earned trust there. I asked YIAW to provide something that proves my work, and they shared this [recommendation letter](/files/YIAW%20Recommendation%20Letter%20_%20Aryan%20Brite%20%281%29.pdf).  
+- As a Program Manager at [*YIAW*](https://www.linkedin.com/company/youth-ideas-at-work/), a nonprofit organization, I designed programs for teenagers to connect with STEM. I worked on complete timelines: how the program would run, how management would function, and how to ensure the community stayed strong. I also had to make sure teens did not feel burnout, that the environment stayed collaborative, and that the overall flow of the program remained simple and easy to follow. I documented everything, created structured plans, and presented ideas and reports to my executives. After completing my journey, I was awarded the Best Volunteer Award. I still remember my lead saying, “Aryan, how are you always able to get your work done on time?” That moment stayed with me. I also earned 387 PVSA certified volunteering hours. More than anything, I earned trust there. I asked YIAW to provide something that proves my work, and they shared this [recommendation letter](/files/YIAW%20Recommendation%20Letter%20_%20Aryan%20Brite%20%281%29.pdf).  
 
 <div style="margin: 8px 0 16px 1.6em; display: flex; gap: 10px; overflow-x: auto; padding: 2px 2px 6px 2px;">
   <a href="/files/YIAW1.jpeg" target="_blank" rel="noopener noreferrer" style="display: block; flex: 0 0 auto;">
@@ -446,9 +446,9 @@ A life in phases — each one a chapter.
   </script>
 </div>
 
-- I applied to become the Lead Organizer for [*Campfire Delhi*](https://campfire.hackclub.com/delhi) at [*Hack Club*](https://hackclub.com) — and I got selected.  
+- I applied to become the Lead Organizer for [*Campfire Delhi*](https://campfire.hackclub.com/delhi) at [*Hack Club*](https://hackclub.com), and I got selected.  
 
-  According to my regional manager, all the satellite events in Delhi were actually an absolute failure — with around 23% ship rate and ~21% NPS. That showed me that strong sponsors or venues don’t guarantee a strong community. When I organized Campfire Delhi, we reached around 90% ship rate and ~75% NPS — unexpected for a 100+ participant event. People joined from across India, and even after the event, our Slack community is still the most active Campfire Slack channel. Many couldn’t move on from the experience — some even added it to their Slack profiles. The event crossed the requirements for Trusted Organizer recognition from Hack Club. In a way, it felt ironic — not much was expected, but it became one of the strongest community experiences. For me, the most important outcome wasn’t the numbers — it was building a real sense of belonging.
+  According to my regional manager, all the satellite events in Delhi were actually an absolute failure, with around 23% ship rate and ~21% NPS. That showed me that strong sponsors or venues don’t guarantee a strong community. When I organized Campfire Delhi, we reached around 90% ship rate and ~75% NPS, unexpected for a 100+ participant event. People joined from across India, and even after the event, our Slack community is still the most active Campfire Slack channel. Many couldn’t move on from the experience, some even added it to their Slack profiles. The event crossed the requirements for Trusted Organizer recognition from Hack Club. In a way, it felt ironic, not much was expected, but it became one of the strongest community experiences. For me, the most important outcome wasn’t the numbers, it was building a real sense of belonging.
 
 <div style="margin: 10px 0 20px 1.6em; display: flex; gap: 10px; overflow-x: auto; padding: 2px 2px 6px 2px;">
   <div style="display: block; flex: 0 0 auto; position: relative; width: 320px; height: 200px; border-radius: 10px; overflow: hidden; border: 1px solid rgba(0,0,0,0.16); background: #000;">
@@ -488,7 +488,7 @@ A life in phases — each one a chapter.
 
 <p align="right"><em>Last updated: March 22, 2026</em></p>
 
-### Phase 2 — Gap Year
+### Phase 2: Gap Year
 
 
 <div id="magicOverlay" style="display: none; opacity: 0; transition: opacity 0.5s ease; position: fixed; top: 0; left: 0; width: 100vw; height: 100vh; background-color: rgba(50, 42, 34, 0.72); z-index: 99999; flex-direction: column; justify-content: center; align-items: center; font-family: 'Inter', 'Helvetica Neue', sans-serif; padding: 20px;">

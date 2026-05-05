@@ -16,7 +16,7 @@ citation: 'Aryan Singh. (2025). &quot;Guide for teens.&quot; <i>Book</i>. 1(1).'
 Writing your **first book** sounds cool when you say it out loud.  
 Actually *doing it*? Yeah… that’s a different story.
 
-This blog is about my first book **“Zero To Job”** — how it started, why I wrote it, and the chaos behind getting it published.
+This blog is about my first book **“Zero To Job”**: how it started, why I wrote it, and the chaos behind getting it published.
 
 No flex. Just facts.
 
@@ -43,7 +43,7 @@ Everyone hears:
 - “College ke baad job”
 
 But **branches of CS?**  
-Web, mobile, systems, AI, security, open source, DevOps, product, research — half of these words are unknown to most students.
+Web, mobile, systems, AI, security, open source, DevOps, product, research, half of these words are unknown to most students.
 
 So before teaching *how* to code, I wanted to answer:
 > **“What are all the possible paths in CS?”**
@@ -52,7 +52,7 @@ That became the core moto of this book.
 
 ---
 
-## Zero se job tak — literally
+## Zero se job tak, literally
 
 This book is for someone who is at **absolute zero**.
 
@@ -70,7 +70,7 @@ I wrote this book as a **step-by-step guide**:
 - how to use GitHub and LinkedIn properly
 - how to enter open source
 - how to make yourself visible online
-- and yes, how to get **real work, internships, freelance gigs, or even a job — before college**
+- and yes, how to get **real work, internships, freelance gigs, or even a job, before college**
 
 Not theory. Not motivation quotes.  
 Just practical direction.
@@ -122,7 +122,7 @@ The book is now:
 - Internationally available on Amazon  
 - Paperback (Large Print)
 
-And yes — holding your own printed book for the first time feels unreal.
+And yes, holding your own printed book for the first time feels unreal.
 
 ---
 
@@ -130,7 +130,7 @@ And yes — holding your own printed book for the first time feels unreal.
 
 One thing I really wanted to do in this book was **show how wide CS actually is**.
 
-Most teens don’t even know fields like **Quantum Computing** exist — let alone that they can explore them early.
+Most teens don’t even know fields like **Quantum Computing** exist, let alone that they can explore them early.
 
 This page is from the book where I talk about quantum computing as a possible CS path.
 
@@ -177,7 +177,7 @@ This book isn’t perfect.
 I’m not perfect.  
 And honestly, that’s the point.
 
-I wrote the book I wish I had when I was starting out —  
+I wrote the book I wish I had when I was starting out,  
 something simple, honest, and practical.
 
 If this book helps even **one teen** start early and avoid confusion, it’s worth it.
