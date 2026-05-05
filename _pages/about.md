@@ -1,6 +1,7 @@
 ---
 permalink: /
 title: "You weren’t supposed to land here."
+description: "Aryan Brite – student, open-source builder, and program manager from New Delhi, India. Author of Zero to Job, founder of Deyweaver, and Lead Organizer of Campfire Delhi."
 author_profile: true
 redirect_from: 
   - /about/
@@ -325,125 +326,25 @@ A life in phases, each one a chapter.
       pointer-events: none;
     }
 
-    .np-video-launch {
-      position: absolute;
-      inset: 0;
-      border: 0;
-      background: transparent;
-      cursor: pointer;
-      z-index: 2;
-    }
-
-    .np-video-modal {
-      display: none;
-      position: fixed;
-      inset: 0;
-      z-index: 100001;
-      background: rgba(0, 0, 0, 0.82);
-      padding: 22px;
-      align-items: center;
-      justify-content: center;
-    }
-
-    .np-video-modal-content {
-      position: relative;
-      width: min(96vw, 1100px);
-      aspect-ratio: 16 / 9;
-      background: #000;
-      border-radius: 12px;
-      overflow: hidden;
-      box-shadow: 0 20px 50px rgba(0, 0, 0, 0.45);
-    }
-
-    .np-video-modal-content iframe {
-      width: 100%;
-      height: 100%;
-      border: 0;
-    }
-
-    .np-video-modal-close {
-      position: absolute;
-      top: 10px;
-      right: 10px;
-      z-index: 2;
-      border: 0;
-      border-radius: 999px;
-      width: 34px;
-      height: 34px;
-      cursor: pointer;
-      background: rgba(0, 0, 0, 0.72);
-      color: #fff;
-      font-size: 20px;
-      line-height: 1;
-    }
-
   </style>
 
   <div class="np-video-strip">
     <div class="np-video-card np-video-card--wide">
       <div class="np-video-frame np-video-frame--wide">
-        <iframe src="https://www.youtube-nocookie.com/embed/yo-239-EMB8?autoplay=1&mute=1&controls=0&modestbranding=1&iv_load_policy=3&cc_load_policy=0&disablekb=1&fs=0&playsinline=1&rel=0&loop=1&playlist=yo-239-EMB8&start=135" title="DeyWeaver clip 1" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-        <button class="np-video-launch" type="button" data-video-id="yo-239-EMB8" data-start="135" aria-label="Open video in fullscreen"></button>
+        <iframe src="https://www.youtube-nocookie.com/embed/yo-239-EMB8?autoplay=1&mute=1&controls=0&modestbranding=1&iv_load_policy=3&cc_load_policy=0&disablekb=1&fs=0&playsinline=1&rel=0&loop=1&playlist=yo-239-EMB8&start=135" title="DeyWeaver clip 1" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
       </div>
     </div>
     <div class="np-video-card np-video-card--reel">
       <div class="np-video-frame np-video-frame--reel">
-        <iframe src="https://www.youtube-nocookie.com/embed/v_mf1m7HDrQ?autoplay=1&mute=1&controls=0&modestbranding=1&iv_load_policy=3&cc_load_policy=0&disablekb=1&fs=0&playsinline=1&rel=0&loop=1&playlist=v_mf1m7HDrQ" title="DeyWeaver clip 3" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-        <button class="np-video-launch" type="button" data-video-id="v_mf1m7HDrQ" aria-label="Open video in fullscreen"></button>
+        <iframe src="https://www.youtube-nocookie.com/embed/v_mf1m7HDrQ?autoplay=1&mute=1&controls=0&modestbranding=1&iv_load_policy=3&cc_load_policy=0&disablekb=1&fs=0&playsinline=1&rel=0&loop=1&playlist=v_mf1m7HDrQ" title="DeyWeaver clip 3" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
       </div>
     </div>
     <div class="np-video-card np-video-card--wide">
       <div class="np-video-frame np-video-frame--wide">
-        <iframe src="https://www.youtube-nocookie.com/embed/LOORrCxwtDA?autoplay=1&mute=1&controls=0&modestbranding=1&iv_load_policy=3&cc_load_policy=0&disablekb=1&fs=0&playsinline=1&rel=0&loop=1&playlist=LOORrCxwtDA" title="DeyWeaver clip 2" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-        <button class="np-video-launch" type="button" data-video-id="LOORrCxwtDA" aria-label="Open video in fullscreen"></button>
+        <iframe src="https://www.youtube-nocookie.com/embed/LOORrCxwtDA?autoplay=1&mute=1&controls=0&modestbranding=1&iv_load_policy=3&cc_load_policy=0&disablekb=1&fs=0&playsinline=1&rel=0&loop=1&playlist=LOORrCxwtDA" title="DeyWeaver clip 2" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>
       </div>
     </div>
   </div>
-
-  <div class="np-video-modal" id="npVideoModal" aria-hidden="true">
-    <div class="np-video-modal-content" role="dialog" aria-modal="true" aria-label="Video player">
-      <button class="np-video-modal-close" id="npVideoModalClose" type="button" aria-label="Close video">x</button>
-      <iframe id="npVideoModalFrame" src="about:blank" title="Expanded nonprofit video" allow="autoplay; encrypted-media; picture-in-picture; web-share" allowfullscreen></iframe>
-    </div>
-  </div>
-
-  <script>
-    (function() {
-      var modal = document.getElementById('npVideoModal');
-      var frame = document.getElementById('npVideoModalFrame');
-      var closeBtn = document.getElementById('npVideoModalClose');
-      var openBtns = document.querySelectorAll('.np-video-launch');
-
-      function closeModal() {
-        modal.style.display = 'none';
-        modal.setAttribute('aria-hidden', 'true');
-        frame.src = 'about:blank';
-        document.body.style.overflow = '';
-      }
-
-      openBtns.forEach(function(btn) {
-        btn.addEventListener('click', function() {
-          var id = btn.getAttribute('data-video-id');
-          var start = btn.getAttribute('data-start');
-          var startParam = start ? '&start=' + encodeURIComponent(start) : '';
-          frame.src = 'https://www.youtube-nocookie.com/embed/' + id + '?autoplay=1&mute=0&controls=1&modestbranding=1&playsinline=1&rel=0' + startParam;
-          modal.style.display = 'flex';
-          modal.setAttribute('aria-hidden', 'false');
-          document.body.style.overflow = 'hidden';
-        });
-      });
-
-      closeBtn.addEventListener('click', closeModal);
-      modal.addEventListener('click', function(e) {
-        if (e.target === modal) closeModal();
-      });
-      document.addEventListener('keydown', function(e) {
-        if (e.key === 'Escape' && modal.style.display === 'flex') {
-          closeModal();
-        }
-      });
-    })();
-  </script>
 </div>
 
 - I applied to become the Lead Organizer for [*Campfire Delhi*](https://campfire.hackclub.com/delhi) at [*Hack Club*](https://hackclub.com), and I got selected.  
