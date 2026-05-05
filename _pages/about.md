@@ -490,7 +490,6 @@ A life in phases — each one a chapter.
 
 ### Phase 2 — Gap Year
 
-- Trusting the gut again. I stumbled onto the [*Hack Club Gap Year*](https://manifesto.hackclub.com/) program. I realized I carry that exact same quiet, relentless builder energy they're looking for. So I applied
 
 <div id="magicOverlay" style="display: none; opacity: 0; transition: opacity 0.5s ease; position: fixed; top: 0; left: 0; width: 100vw; height: 100vh; background-color: rgba(50, 42, 34, 0.72); z-index: 99999; flex-direction: column; justify-content: center; align-items: center; font-family: 'Inter', 'Helvetica Neue', sans-serif; padding: 20px;">
   <div style="background-color: rgba(253, 246, 227, 0.92); border: 2px solid #dccca6; border-radius: 12px; box-shadow: 0 20px 50px rgba(0,0,0,0.25); padding: 40px 30px; text-align: center; max-width: 650px; width: 100%; max-height: 85vh; overflow-y: auto; display: flex; flex-direction: column; align-items: center;">
