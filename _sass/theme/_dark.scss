@@ -2,29 +2,28 @@
    DARK THEME
    ========================================================================== */
 
-/* Local variables for the white theme so they don't overwrite vintage variables globally */
-$white-gray                 : #7a8288;
-$white-dark-gray            : mix(#000, $white-gray, 40%);
-$white-darker-gray          : mix(#000, $white-gray, 60%);
-$white-light-gray           : #9ba1a6;
-$white-lighter-gray         : mix(#fff, $white-gray, 90%);
-
-/* White theme for the site when toggle is pressed */
+/* Absolute dark night mode when toggle is pressed */
 html[data-theme="dark"] {
-    --global-base-color                 : #{$white-gray};
-    --global-bg-color                   : #fff;
-    --global-footer-bg-color            : #f2f3f3;
-    --global-border-color               : #{$white-lighter-gray};
-    --global-dark-border-color          : #bdc1c4;
-    --global-code-background-color      : #fafafa;
-    --global-code-text-color            : #{$white-darker-gray};
-    --global-fig-caption-color          : #b2b2b2;
-    --global-link-color                 : #52adc8;
-    --global-link-color-hover           : #3d6874;
-    --global-link-color-visited         : #88c0d1;  
-    --global-masthead-link-color        : #{$white-dark-gray};
-    --global-masthead-link-color-hover  : #404040;
-    --global-text-color                 : #{$white-dark-gray};
-    --global-text-color-light           : #{$white-light-gray};
-    --global-thead-color                : #{$white-lighter-gray};
+    --global-base-color                 : #1a1a1a;
+    --global-bg-color                   : #000000;
+    --global-footer-bg-color            : #0d0d0d;
+    --global-border-color               : #333333;
+    --global-dark-border-color          : #444444;
+    --global-code-background-color      : #111111;
+    --global-code-text-color            : #cccccc;
+    --global-fig-caption-color          : #888888;
+    --global-link-color                 : #ff8c00;
+    --global-link-color-hover           : #ffa833;
+    --global-link-color-visited         : #cc7000;
+    --global-masthead-link-color        : #ffffff;
+    --global-masthead-link-color-hover  : #ff8c00;
+    --global-text-color                 : #ffffff;
+    --global-text-color-light           : #aaaaaa;
+    --global-thead-color                : #1a1a1a;
+}
+
+/* Text selection in dark mode */
+html[data-theme="dark"] ::selection {
+    background-color: #ffffff;
+    color: #000000;
 }
