@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "portfolio"
+title                    : "Aryan Brite"
 title_separator          : "-"
-name                     : &name "aryan brite"
-description              : &description "personal description"
+name                     : &name "Aryan Brite"
+description              : &description "Aryan Brite – student, open-source builder, and program manager from New Delhi, India. Author of Zero to Job, founder of Deyweaver, and Lead Organizer of Campfire Delhi."
 url                      : https://aryanbrite.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -124,7 +124,7 @@ atom_feed:
 
 
 # SEO Related
-google_site_verification :
+google_site_verification : "cffec9678c6b51b1"
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
@@ -141,9 +141,11 @@ og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type                   : Person
+  name                   : Aryan Brite
+  links:
+    - https://github.com/aryan6673
+    - https://www.linkedin.com/in/aryanbrite
 
 
 # Analytics
