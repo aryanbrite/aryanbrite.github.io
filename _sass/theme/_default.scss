@@ -3,25 +3,26 @@
    ========================================================================== */
 
 /* Color codes used for the theme */
-$gray                       : #8c7f70;
+$gray                       : #7a8288;
 $dark-gray                  : mix(#000, $gray, 40%);
 $darker-gray                : mix(#000, $gray, 60%);
-$light-gray                 : mix(#fff, $gray, 30%);
+$light-gray                 : #9ba1a6;
+$lighter-gray               : mix(#fff, $gray, 90%);
 
-$background                 : #fdf6e3; /* vintage yellowish light background */
-$background-light           : #eee8d5; /* slightly darker for contrast layers */
-$background-lighter         : #e3ddcb; /* even darker for headers */
-$text                       : #4a4138; /* warm dark brown for text */
-$link                       : #b5533c; /* muted brick red for links */
+$background                 : #ffffff; /* clean white background */
+$background-light           : #f2f3f3; /* slightly off-white for contrast layers */
+$background-lighter         : #e8eaed; /* slightly darker for headers */
+$text                       : mix(#000, $gray, 40%); /* dark gray for text */
+$link                       : #1a73e8; /* standard blue for links */
 $link-dark                  : mix(#000, $link, 25%);
 $link-light                 : mix(#fff, $link, 40%);
 
 /* Color codes used for the site */
-$danger-color               : #cb4b16;
+$danger-color               : #d32f2f;
 $info-color                 : #2aa198;
-$notice-color               : #8c7f70;
-$success-color              : #859900;
-$warning-color              : #b58900;
+$notice-color               : #7a8288;
+$success-color              : #388e3c;
+$warning-color              : #f57c00;
 
 /* Other basic settings for the template */
 $border-radius              : 4px;
@@ -33,22 +34,22 @@ $navicon-height             : 4px;
 $sidebar-link-max-width     : 250px;
 $sidebar-screen-min-width   : 1024px;
 
-/* Default vintage theme for the site */
+/* Default white theme for the site */
 :root {
-    --global-base-color                 : #{$background};
+    --global-base-color                 : #{$gray};
     --global-bg-color                   : #{$background};
-    --global-footer-bg-color            : #{$background};
-    --global-border-color               : #{$light-gray};
-    --global-dark-border-color          : #{$background-light};
-    --global-code-background-color      : #eee8d5;
+    --global-footer-bg-color            : #{$background-light};
+    --global-border-color               : #{$lighter-gray};
+    --global-dark-border-color          : #bdc1c4;
+    --global-code-background-color      : #fafafa;
     --global-code-text-color            : #{$darker-gray};
-    --global-fig-caption-color          : #{$light-gray};
+    --global-fig-caption-color          : #b2b2b2;
     --global-link-color                 : #{$link};
     --global-link-color-hover           : #{$link-dark};
     --global-link-color-visited         : #{$link-light};
-    --global-masthead-link-color        : #{$text};
-    --global-masthead-link-color-hover  : #{$background-light};
-    --global-text-color                 : #{$text};
+    --global-masthead-link-color        : #{$dark-gray};
+    --global-masthead-link-color-hover  : #404040;
+    --global-text-color                 : #{$dark-gray};
     --global-text-color-light           : #{$light-gray};
-    --global-thead-color                : #{$background-lighter};
+    --global-thead-color                : #{$lighter-gray};
 }
