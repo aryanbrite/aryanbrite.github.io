@@ -56,7 +56,7 @@ To formalize my skills, I earned a certification from Infosys in Python programm
 
 ## A Case Study: The Numerology Web App
 
-My most significant application of all these skills is the [Numerology App](https://github.com/aryan6673/numerology-app). This project is a synthesis of everything I’ve learned so far, from clean UI built with `customtkinter`, to backend logic written in modular Python, and future-ready integrations with APIs and file storage systems.
+My most significant application of all these skills is the [Numerology App](https://github.com/aryanbrite/numerology-app). This project is a synthesis of everything I’ve learned so far, from clean UI built with `customtkinter`, to backend logic written in modular Python, and future-ready integrations with APIs and file storage systems.
 
 The app calculates and interprets numerological values using various algorithms, presenting results in an accessible, visual way. More than just a technical feat, it taught me the importance of code readability, user experience, and project management. I maintained a clear directory structure, separated business logic from presentation, and documented the code for scalability.
 
@@ -69,5 +69,5 @@ More than a tool, Python is a language of ideas, and I’m only getting started.
 ---
 
 **Author**: Aryan Singh  
-**GitHub**: [@aryan6673](https://github.com/aryan6673)  
-**Featured Project**: [Numerology App](https://github.com/aryan6673/numerology-app)
+**GitHub**: [github.com/aryanbrite](https://github.com/aryanbrite)  
+**Featured Project**: [Numerology App](https://github.com/aryanbrite/numerology-app)

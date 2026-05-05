@@ -192,7 +192,7 @@ A life in phases, each one a chapter.
   })();
 </script>
 
-- I stumbled into open-source like one discovers a hidden alley in a busy city, by accident, but never by mistake. I launched my first public projects, contributed on [GitHub](https://github.com/aryan6673), and started leaving footprints in a digital world where age, location, and labels didn’t matter.  
+- I stumbled into open-source like one discovers a hidden alley in a busy city, by accident, but never by mistake. I launched my first public projects, contributed on [GitHub](https://github.com/aryanbrite), and started leaving footprints in a digital world where age, location, and labels didn’t matter.  
 
 <div style="margin: 8px 0 16px 1.6em; display: flex; gap: 10px; overflow-x: auto; padding: 2px 2px 6px 2px;">
   <a href="/files/git1.png" target="_blank" rel="noopener noreferrer" style="display: block; flex: 0 0 auto;">
